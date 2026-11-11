@@ -62,3 +62,5 @@ mangler, vises initialer. Journalistnavn og avatar åpner journalistenes profils
 **Merk:** Demoartiklene er ikke faktiske nyheter. Bildene i annonser er retroillustrasjoner.
 Det at et produkt-/merkenavn vises i en retroannonse innebærer ikke at dette er en
 nåværende forretning eller reell annonsekampanje.
+
+
