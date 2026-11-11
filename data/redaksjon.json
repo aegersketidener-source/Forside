@@ -1,0 +1,463 @@
+{
+  "avis": "Ægerske Tidender",
+  "redaktor": {
+    "id": "eirik-rodal",
+    "navn": "Eirik Rødal",
+    "alder": 54,
+    "bosted": "Vestfossen",
+    "opprinnelse": "Volda, Møre og Romsdal",
+    "stilling": "Redaktørprofil",
+    "bakgrunn": "Journalistutdanning fra Volda; erfaring med lokalpolitikk, næringsliv og undersøkende journalistikk. Flyttet til Eiker i 2011.",
+    "skrivestil": "Nøktern, resonnerende, tørrvittig og kritisk til maktens språk.",
+    "signatur": "Eirik Rødal",
+    "motto": "Me skal ikkje vere bygdas mikrofonstativ. Me skal stille spørsmåla som nokon helst vil sleppe å svare på.",
+    "utseende": "Mann med bredt, kantet ansikt, kort sølvgrått hår med vikende hårfeste, gråblå øyne, markerte øyenbryn og kort, velstelt grå skjeggstubb. Kraftig kroppsbygning.",
+    "klesstil": "Mørk marineblå ullblazer, lyseblå skjorte med åpen krage og diskret mørkt armbåndsur.",
+    "byline_bilde": {
+      "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+      "positur": "Vend mot kamera, lett dreining av skuldrene",
+      "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+      "bakgrunn": "Nøytral varm grå studiobakgrunn",
+      "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+      "format": "1:1",
+      "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+      "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+    }
+  },
+  "kategorier": [
+    {
+      "id": "trafikk-og-samferdsel",
+      "navn": "Trafikk og samferdsel",
+      "journalister": [
+        {
+          "id": "eivind-skistad",
+          "navn": "Eivind Skistad",
+          "alder": 46,
+          "bosted": "Hokksund",
+          "bakgrunn": "Tidligere regionreporter med fordypning i veiutbygging, jernbane og offentlige anbud.",
+          "skrivestil": "Tallsterk, forklarende og kritisk til uklare tidsplaner.",
+          "signatur": "Eivind Skistad | Samferdsel",
+          "utseende": "Høy, slank mann med smalt ansikt, askebrunt kort hår, grønnbrune øyne og tydelige smilelinjer. Renbarbert.",
+          "klesstil": "Olivengrønn overskjorte, grå merinogenser og mørke chinos.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        },
+        {
+          "id": "katarzyna-nowak",
+          "navn": "Katarzyna Nowak",
+          "alder": 34,
+          "bosted": "Vestfossen",
+          "bakgrunn": "Norsk-polsk journalist med erfaring fra lokalradio og løpende trafikkdekning.",
+          "skrivestil": "Kort, konkret og tett på hverdagen til pendlere og syklister.",
+          "signatur": "Katarzyna Nowak | Trafikk",
+          "utseende": "Kvinne med ovalt ansikt, lys hud, mørkeblondt hår i skulderlang bob, blå øyne og et lite fødselsmerke ved venstre kinnbein.",
+          "klesstil": "Koksgrå kort jakke, hvit rundhalset topp og enkle sølvøredobber.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        }
+      ]
+    },
+    {
+      "id": "politikk",
+      "navn": "Politikk",
+      "journalister": [
+        {
+          "id": "sigrid-horne",
+          "navn": "Sigrid Horne",
+          "alder": 51,
+          "bosted": "Åmot",
+          "bakgrunn": "Mangeårig kommunereporter med særlig erfaring fra budsjetter, planutvalg og innsynssaker.",
+          "skrivestil": "Presis, dokumentbasert og kompromissløst saklig.",
+          "signatur": "Sigrid Horne | Politikk",
+          "utseende": "Kvinne med langstrakt ansikt, kort salt-og-pepper-farget hår, grå øyne og tynne metallbriller. Rak holdning.",
+          "klesstil": "Mørk vinrød blazer, svart høyhalset genser og små sølvøredobber.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        },
+        {
+          "id": "amar-singh",
+          "navn": "Amar Singh",
+          "alder": 38,
+          "bosted": "Hokksund",
+          "bakgrunn": "Statsvitenskapelig bakgrunn og erfaring fra fylkespolitisk journalistikk.",
+          "skrivestil": "Analytisk og pedagogisk, med vekt på konsekvenser for innbyggerne.",
+          "signatur": "Amar Singh | Politikk",
+          "utseende": "Mann med middels brun hudtone, bølget svart hår med sideskill, mørkebrune øyne og kort, presist trimmet skjegg.",
+          "klesstil": "Mørk grønn blazer, kremfarget skjorte uten slips og enkel klokke.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        }
+      ]
+    },
+    {
+      "id": "politi-og-rett",
+      "navn": "Politi og rett",
+      "journalister": [
+        {
+          "id": "morten-kolberg",
+          "navn": "Morten Kolberg",
+          "alder": 49,
+          "bosted": "Mjøndalen",
+          "bakgrunn": "Tidligere kriminalreporter med erfaring fra rettsreferater og offentlig dokumentinnsyn.",
+          "skrivestil": "Stram, kildekritisk og varsom med ubekreftede påstander.",
+          "signatur": "Morten Kolberg | Politi og rett",
+          "utseende": "Bredskuldret mann med rundt ansikt, kortklipt mørkt hår med grå tinninger, blå øyne og dype linjer i pannen.",
+          "klesstil": "Mørk denimskjorte under svart, ustrukturert blazer; ingen slips.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        },
+        {
+          "id": "aida-hadzic",
+          "navn": "Aida Hadžić",
+          "alder": 36,
+          "bosted": "Hokksund",
+          "bakgrunn": "Bosnisk-norsk reporter med erfaring fra domstolsjournalistikk og beredskapssaker.",
+          "skrivestil": "Menneskenær, nøyaktig og tydelig på skillet mellom mistanke og dom.",
+          "signatur": "Aida Hadžić | Rett og beredskap",
+          "utseende": "Kvinne med lys olivenfarget hud, langt kastanjebrunt hår samlet lavt i nakken, hasselbrune øyne og markerte kinnbein.",
+          "klesstil": "Sandfarget blazer over svart bluse, diskret gullkjede.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "navn": "Sport",
+      "journalister": [
+        {
+          "id": "lars-bingen",
+          "navn": "Lars Bingen",
+          "alder": 43,
+          "bosted": "Skotselv",
+          "bakgrunn": "Tidligere lokal sportsfrilanser med særlig kjennskap til fotball, håndball og klubbdrift.",
+          "skrivestil": "Engasjert, poengtert og rik på lokale idrettsreferanser.",
+          "signatur": "Lars Bingen | Sport",
+          "utseende": "Mann med solbrun hud, kraftig kjeve, kort lyst hår, blå øyne og bredt, litt skjevt smil. Atletisk bygning; velstelt, lun og lett gammeldags fremtoning.",
+          "klesstil": "Tweedkongen: nesten alltid tredelt tweeddress i fiskebein eller diskrete ruter, i bruntoner, olivengrønt eller rust. Ullvest, skjorte, slips eller åpen krage, lommetørkle og klassiske broguesko. Sixpence når han er utendørs. Britisk sportsjournalist anno 1936 møter breddeidretten i Eiker.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Lunt, litt skjevt og selvsikkert smil; avslappet autoritet.",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og tweed som gjennomgående signaturantrekk på alle senere bilder.",
+            "antrekk": "Karakteristisk tweedjakke og matchende ullvest, skjorte med slips eller åpen krage; tweedstoffets struktur skal være tydelig."
+          },
+          "kallenavn": "Tweedkongen"
+        },
+        {
+          "id": "milena-kovacevic",
+          "navn": "Milena Kovačević",
+          "alder": 29,
+          "bosted": "Vikersund",
+          "bakgrunn": "Bosnisk-norsk journalist med erfaring fra breddeidrett, ski og ungdomsidrett.",
+          "skrivestil": "Levende og inkluderende, med interesse for innsatsen bak resultatene.",
+          "signatur": "Milena Kovačević | Breddeidrett",
+          "utseende": "Kvinne med mellomlangt mørkebrunt krøllete hår, brune øyne, fregner over nesen og energisk ansiktsuttrykk.",
+          "klesstil": "Terrakottafarget strikkegenser, mørk denimjakke og små hoops.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lokalsamfunn",
+      "navn": "Lokalsamfunn",
+      "journalister": [
+        {
+          "id": "anne-grete-haug",
+          "navn": "Anne-Grete Haug",
+          "alder": 57,
+          "bosted": "Darbu",
+          "bakgrunn": "Erfaren lokaljournalist med skole, helse og frivillige organisasjoner som spesialfelt.",
+          "skrivestil": "Varm, grundig og undersøkende uten å bli sentimental.",
+          "signatur": "Anne-Grete Haug | Lokalsamfunn",
+          "utseende": "Kvinne med mykt, rundt ansikt, gråblå øyne, kort lyst hår med sølvstriper og tydelige latterrynker.",
+          "klesstil": "Petroleumsblå cardigan over hvit skjorte, fargerikt men dempet silkeskjerf.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        },
+        {
+          "id": "piotr-kowalski",
+          "navn": "Piotr Kowalski",
+          "alder": 32,
+          "bosted": "Geithus",
+          "bakgrunn": "Polsk-norsk journalist med bakgrunn fra portrettintervjuer og lokal samfunnsreportasje.",
+          "skrivestil": "Nysgjerrig, fortellende og opptatt av små historier med større betydning.",
+          "signatur": "Piotr Kowalski | Folk og steder",
+          "utseende": "Mann med smalt ansikt, kort sandblondt hår, lysegrå øyne, svak skjeggstubb og et asymmetrisk smil.",
+          "klesstil": "Brun kordfløyelsjakke, mørk grønn t-skjorte og nøytrale briller hengende i halsåpningen.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        }
+      ]
+    },
+    {
+      "id": "naeringsliv",
+      "navn": "Næringsliv",
+      "journalister": [
+        {
+          "id": "kristian-fossesholm",
+          "navn": "Kristian Fossesholm",
+          "alder": 45,
+          "bosted": "Vestfossen",
+          "bakgrunn": "Økonomijournalist med erfaring fra industri, arbeidsliv og næringsarealer.",
+          "skrivestil": "Faktatung, direkte og god til å forklare økonomiske sammenhenger.",
+          "signatur": "Kristian Fossesholm | Næringsliv",
+          "utseende": "Mann med bred panne, mørkebrunt hår med sølv ved tinningene, lysebrune øyne og kort helskjegg.",
+          "klesstil": "Lys blå oxfordskjorte, mørk grå vest i ull og marineblå blazer.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        },
+        {
+          "id": "priya-sharma",
+          "navn": "Priya Sharma",
+          "alder": 35,
+          "bosted": "Åmot",
+          "bakgrunn": "Norsk-indisk reporter med økonomiutdanning og erfaring fra gründer- og handelsstoff.",
+          "skrivestil": "Lettlest, tallbevisst og interessert i menneskene bak bedriftene.",
+          "signatur": "Priya Sharma | Økonomi og arbeidsliv",
+          "utseende": "Kvinne med varm brun hudtone, langt svart hår i glatt skulderlang frisyre, mørkebrune øyne og markert smil.",
+          "klesstil": "Dyp blågrønn blazer over kremhvit bluse, små gulløredobber.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kultur-og-fritid",
+      "navn": "Kultur og fritid",
+      "journalister": [
+        {
+          "id": "ingrid-sundhaugen",
+          "navn": "Ingrid Sundhaugen",
+          "alder": 52,
+          "bosted": "Sigdal",
+          "bakgrunn": "Kulturhistorisk utdanning og lang erfaring fra lokal kunst-, museums- og musikkdekning.",
+          "skrivestil": "Detaljrik, språklig sikker og med sans for historiske sidespor.",
+          "signatur": "Ingrid Sundhaugen | Kultur",
+          "utseende": "Kvinne med smalt ansikt, skulderlangt kobberrødt hår med grå striper, grønne øyne og runde mørke briller.",
+          "klesstil": "Mørk sennepsgul linblazer, sort topp og et lite keramisk halssmykke.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        },
+        {
+          "id": "emir-begovic",
+          "navn": "Emir Begović",
+          "alder": 31,
+          "bosted": "Mjøndalen",
+          "bakgrunn": "Bosnisk-norsk kulturreporter med erfaring fra konsertjournalistikk og festivalproduksjon.",
+          "skrivestil": "Rytmisk, observant og åpen for både tradisjon og nye uttrykk.",
+          "signatur": "Emir Begović | Kulturliv",
+          "utseende": "Mann med olivenfarget hud, tett mørkt krøllete hår, mørke øyne, markert nese og kort skjegg.",
+          "klesstil": "Sort skjorte med åpen krage, brun semsket jakke og diskret ring.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        }
+      ]
+    },
+    {
+      "id": "meninger",
+      "navn": "Meninger",
+      "journalister": [
+        {
+          "id": "ragnhild-bergan",
+          "navn": "Ragnhild Bergan",
+          "alder": 59,
+          "bosted": "Hokksund",
+          "bakgrunn": "Erfaren debattredaktør med bakgrunn fra lokal presse og offentlig ordskifte.",
+          "skrivestil": "Prinsipiell, knapp og opptatt av redelig argumentasjon.",
+          "signatur": "Ragnhild Bergan | Debatt",
+          "utseende": "Kvinne med kort, sølvhvitt hår, skarpe blå øyne, firkantede briller og tydelig kjevelinje.",
+          "klesstil": "Klassisk svart blazer, hvit skjorte og et smalt burgunder skjerf.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        },
+        {
+          "id": "aleksander-wisniewski",
+          "navn": "Aleksander Wiśniewski",
+          "alder": 41,
+          "bosted": "Vikersund",
+          "bakgrunn": "Polsk-norsk samfunnskommentator med studier i historie og politisk filosofi.",
+          "skrivestil": "Resonnerende, essayistisk og villig til å utfordre egne premisser.",
+          "signatur": "Aleksander Wiśniewski | Kommentar",
+          "utseende": "Mann med lyst olivenfarget hud, mellombrunt hår gredd bakover, grågrønne øyne og et veltrimmet kort skjegg.",
+          "klesstil": "Mørk brun tweedjakke, lys skjorte og mørk, tynn ullgenser.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dette-skjer",
+      "navn": "Dette skjer",
+      "journalister": [
+        {
+          "id": "maren-spaeren",
+          "navn": "Maren Spæren",
+          "alder": 28,
+          "bosted": "Krøderen",
+          "bakgrunn": "Tidligere arrangementskoordinator og frilansskribent med lokalt foreningsnettverk.",
+          "skrivestil": "Praktisk, tilgjengelig og presis på tid, sted og påmelding.",
+          "signatur": "Maren Spæren | Dette skjer",
+          "utseende": "Kvinne med lyst, skulderlangt bølget hår, blå øyne, fregner og smil med synlig smilegrop.",
+          "klesstil": "Lys denimskjorte, støvrosa cardigan og enkle øredobber.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        },
+        {
+          "id": "sanjay-patel",
+          "navn": "Sanjay Patel",
+          "alder": 40,
+          "bosted": "Hokksund",
+          "bakgrunn": "Norsk-indisk journalist med erfaring fra aktivitetskalendere og familieorientert lokalstoff.",
+          "skrivestil": "Oversiktlig, serviceorientert og opptatt av tilgjengelighet.",
+          "signatur": "Sanjay Patel | Arrangementer",
+          "utseende": "Mann med middels brun hudtone, kort svart hår med litt grått ved tinningene, mørkebrune øyne og renbarbert ansikt.",
+          "klesstil": "Lys grå blazer over mørkeblå skjorte, ingen slips, smal klokke.",
+          "byline_bilde": {
+            "utsnitt": "Hode og skuldre, fra midt på brystet og opp",
+            "positur": "Vend mot kamera, lett dreining av skuldrene",
+            "uttrykk": "Naturlig, vennlig og profesjonelt; personens særpreg beholdes",
+            "bakgrunn": "Nøytral varm grå studiobakgrunn",
+            "lys": "Mykt dagslys fra kameravenstre, naturlige hudtoner",
+            "format": "1:1",
+            "fotostil": "Fotorealistisk redaksjonelt portrett, ingen tekst, ingen logo",
+            "konsistens": "Behold samme ansiktstrekk, hår, alder og signaturantrekk på alle senere bilder"
+          }
+        }
+      ]
+    }
+  ]
+}

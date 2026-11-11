@@ -1,0 +1,1269 @@
+{
+  "tittel": "Ægerske Tidener – natur- og friluftsregister",
+  "versjon": "0.1",
+  "opprettet": "2026-11-11",
+  "dekning": [
+    "Gamle Nedre Eiker",
+    "Øvre Eiker",
+    "Modum",
+    "Sigdal",
+    "Krødsherad"
+  ],
+  "fullstendig": false,
+  "status": "Foreløpig redaksjonell navneliste. Ingen maskinell SSR-import eller full kontroll av kommunegrenser og hytteadgang.",
+  "kilder": [
+    {
+      "navn": "Kartverket – Sentralt stedsnavnregister",
+      "url": "https://www.kartverket.no/api-og-data/stedsnavndata/brukarrettleiing-stadnamn-api"
+    },
+    {
+      "navn": "UT.no",
+      "url": "https://ut.no/"
+    }
+  ],
+  "antall_oppforinger": 120,
+  "steder": [
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Finnemarka",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": "Kan krysse kommunegrenser eller være et regionalt navn."
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Mjøndalsskauen",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Solbergmarka",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Krokstadmarka",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Solbergåsen",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Nedbergkollen",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Knabben",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Hagatjernåsen",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Hagatjern",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Årbogen",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Ulevann",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Langvann",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Drammenselva",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Krokstadelva",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Solbergelva",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Årbogen friluftsområde",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Hagatjern friluftsområde",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Gamle Nedre Eiker",
+      "navn": "Mjøndalsskauen",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Holtefjell",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": "Kan krysse kommunegrenser eller være et regionalt navn."
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Finnemarka",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": "Kan krysse kommunegrenser eller være et regionalt navn."
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Fiskumskogen",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Bingenskogen",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Vestfossmarka",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Holtefjell",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": "Kan krysse kommunegrenser eller være et regionalt navn."
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Sirikirke",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Høgåsen",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Horneåsen",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Haugåsen",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Eikeren",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Fiskumvannet",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Hakavikvannet",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Øksnevann",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Junger",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Hoensvannet",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Lauvtjern",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Bergsvannet",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Drammenselva",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Vestfosselva",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Bingselva",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Dørja",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Fiskumelva",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Bingen",
+      "kategori": "dal og dalføre",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Fiskum",
+      "kategori": "dal og dalføre",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Vestfossdalen",
+      "kategori": "dal og dalføre",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Fiskumvannet naturreservat",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Fossesholm",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Sundhaugen",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Hakavik",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Finnemarka",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": "Kan krysse kommunegrenser eller være et regionalt navn."
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Holtefjell",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": "Kan krysse kommunegrenser eller være et regionalt navn."
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Snarumskogen",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Simostrandskogen",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Høgåsen",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Bjønnhøgåsen",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Hovlandsfjell",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Tyrifjorden",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": "Kan krysse kommunegrenser eller være et regionalt navn."
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Bergsjø",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Dypingen",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Glitre",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": "Kan krysse kommunegrenser eller være et regionalt navn."
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Holsfjorden",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Drammenselva",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Simoa",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Snarumselva",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Snarum",
+      "kategori": "dal og dalføre",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Simostranda",
+      "kategori": "dal og dalføre",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Simoas dalføre",
+      "kategori": "dal og dalføre",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Heggenåsen",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Furumo",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Blaafarveværket",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Koboltgruvene",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Trillemarka",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": "Kan krysse kommunegrenser eller være et regionalt navn."
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Rollagsfjell",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Sigdalsskogen",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Eggedalsfjella",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Andersnatten",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Haglebufjell",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Gråfjell",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Ranten",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Madonnastatuen ved Bjønneskortan",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Soneren",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Haglebu",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Haglebuvannet",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Nedalsvannet",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Grønhovdtjern",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Simoa",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Eggedøla",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Eggedal",
+      "kategori": "dal og dalføre",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Sigdal",
+      "kategori": "dal og dalføre",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Nedre Eggedal",
+      "kategori": "dal og dalføre",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Trillemarka-Rollagsfjell naturreservat",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Haglebu",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Tempelseter",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Madonnaen ved Bjønneskortan",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Norefjellskogen",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Redalsskogen",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Råenskogen",
+      "kategori": "skogsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Norefjell",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": "Kan krysse kommunegrenser eller være et regionalt navn."
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Høgevarde",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Ravnås",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Ranten",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Gråfjell",
+      "kategori": "ås og topp",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Krøderen",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Djupsjøen",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Ørgenvika",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Høgevardetjern",
+      "kategori": "vann og tjern",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Krøderelva",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Snarumselva",
+      "kategori": "elv og vassdrag",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Krøderfjorden",
+      "kategori": "dal og dalføre",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Redalen",
+      "kategori": "dal og dalføre",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Norefjell",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": "Kan krysse kommunegrenser eller være et regionalt navn."
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Høgevarde",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Norefjellplatået",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Krøderbanen",
+      "kategori": "landskap og friluftsområde",
+      "undertype": null,
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "ikke kontrollert mot SSR",
+      "merknad": null
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Hoensvannshotellet",
+      "kategori": "hytte og turmål",
+      "undertype": "turhytte/utfartssted",
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "navn og kommuneplassering må kontrolleres",
+      "tilgang": {
+        "allmenn_bruk": "ukjent",
+        "overnatting": "ukjent",
+        "booking": "ukjent",
+        "åpningstider": "ukjent"
+      },
+      "merknad": "Ikke tolkes som bekreftet åpen eller bookbar hytte."
+    },
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Sirikirke",
+      "kategori": "hytte og turmål",
+      "undertype": "turmål (ikke bekreftet hytte)",
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "navn og kommuneplassering må kontrolleres",
+      "tilgang": {
+        "allmenn_bruk": "ukjent",
+        "overnatting": "ukjent",
+        "booking": "ukjent",
+        "åpningstider": "ukjent"
+      },
+      "merknad": "Ikke tolkes som bekreftet åpen eller bookbar hytte."
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Eiksetra",
+      "kategori": "hytte og turmål",
+      "undertype": "turhytte/utfartssted",
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "navn og kommuneplassering må kontrolleres",
+      "tilgang": {
+        "allmenn_bruk": "ukjent",
+        "overnatting": "ukjent",
+        "booking": "ukjent",
+        "åpningstider": "ukjent"
+      },
+      "merknad": "Ikke tolkes som bekreftet åpen eller bookbar hytte."
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Haglebu fjellstue",
+      "kategori": "hytte og turmål",
+      "undertype": "fjellstue",
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "navn og kommuneplassering må kontrolleres",
+      "tilgang": {
+        "allmenn_bruk": "ukjent",
+        "overnatting": "ukjent",
+        "booking": "ukjent",
+        "åpningstider": "ukjent"
+      },
+      "merknad": "Ikke tolkes som bekreftet åpen eller bookbar hytte."
+    },
+    {
+      "kommune": "Sigdal",
+      "navn": "Tempelseter",
+      "kategori": "hytte og turmål",
+      "undertype": "fjellstue/utfartssted",
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "navn og kommuneplassering må kontrolleres",
+      "tilgang": {
+        "allmenn_bruk": "ukjent",
+        "overnatting": "ukjent",
+        "booking": "ukjent",
+        "åpningstider": "ukjent"
+      },
+      "merknad": "Ikke tolkes som bekreftet åpen eller bookbar hytte."
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Høgevarde turisthytte",
+      "kategori": "hytte og turmål",
+      "undertype": "turisthytte",
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "navn og kommuneplassering må kontrolleres",
+      "tilgang": {
+        "allmenn_bruk": "ukjent",
+        "overnatting": "ukjent",
+        "booking": "ukjent",
+        "åpningstider": "ukjent"
+      },
+      "merknad": "Ikke tolkes som bekreftet åpen eller bookbar hytte."
+    },
+    {
+      "kommune": "Krødsherad",
+      "navn": "Norefjellhytta",
+      "kategori": "hytte og turmål",
+      "undertype": "serveringssted/turhytte",
+      "koordinater": null,
+      "ssr_id": null,
+      "verifisering": "navn og kommuneplassering må kontrolleres",
+      "tilgang": {
+        "allmenn_bruk": "ukjent",
+        "overnatting": "ukjent",
+        "booking": "ukjent",
+        "åpningstider": "ukjent"
+      },
+      "merknad": "Ikke tolkes som bekreftet åpen eller bookbar hytte."
+    }
+  ]
+}

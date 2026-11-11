@@ -1,0 +1,797 @@
+[
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Krøderen",
+    "grend": "Bjøreskogen"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Krøderen",
+    "grend": "Krøderen"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Krøderen",
+    "grend": "Redalen"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Krøderen",
+    "grend": "Rundskogen"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Krøderen",
+    "grend": "Råenskogen"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Krøderen",
+    "grend": "Ørgenvika"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Noresund",
+    "grend": "Bjøre"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Noresund",
+    "grend": "Glesne"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Noresund",
+    "grend": "Hamremoen"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Noresund",
+    "grend": "Norefjell"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Noresund",
+    "grend": "Norefjellplatået"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Noresund",
+    "grend": "Noresund"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Noresund",
+    "grend": "Olberg"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Noresund",
+    "grend": "Ringnes"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Noresund",
+    "grend": "Rishovd"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Noresund",
+    "grend": "Råen"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Noresund",
+    "grend": "Skinnes"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Noresund",
+    "grend": "Snersrud"
+  },
+  {
+    "kommune": "Krødsherad",
+    "postnummersted": "Noresund",
+    "grend": "Tangen"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Geithus",
+    "grend": "Geithus"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Simostranda",
+    "grend": "Simostranda"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Snarum",
+    "grend": "Drolsum"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Snarum",
+    "grend": "Snarum"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Askjum"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Aslaksby"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Bjørndalen"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Brekke"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Bråtan"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Flattum"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Formo"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Fossum"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Fure"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Gravermoen"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Grefstad"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Gubberud"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Gulsrud"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Gunnhus"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Gåserud"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Heggen"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Helsen"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Hulbak"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Hval"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Jellstad"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Kimmerud"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Klegstad"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Kopland"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Korsbøen"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Langerud"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Lerskallen"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Lia"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Lobben"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Morud"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Overn"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Pilterud"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Refsal"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Rud"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Rød"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Skretteberg"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Steinsrud"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Såstad"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Sønsteby"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Vikersund"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Øren"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Øst-Modum"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Østensenga"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Vikersund",
+    "grend": "Øverby"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Åmot",
+    "grend": "Hære"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Åmot",
+    "grend": "Nykirke"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Åmot",
+    "grend": "Sysle"
+  },
+  {
+    "kommune": "Modum",
+    "postnummersted": "Åmot",
+    "grend": "Åmot"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Krokstadelva",
+    "grend": "Batteriet"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Krokstadelva",
+    "grend": "Krokstadelva"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Krokstadelva",
+    "grend": "Langløkka"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Krokstadelva",
+    "grend": "Stenseth"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Krokstadelva",
+    "grend": "Årbogen"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Mjøndalen",
+    "grend": "Hagatjern"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Mjøndalen",
+    "grend": "Hovjordet"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Mjøndalen",
+    "grend": "Mjøndalen"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Mjøndalen",
+    "grend": "Nedbergkollen"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Mjøndalen",
+    "grend": "Rygh"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Mjøndalen",
+    "grend": "Åsen"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Solbergelva",
+    "grend": "Killingrud"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Solbergelva",
+    "grend": "Solbergelva"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Solbergelva",
+    "grend": "Solbergmoen"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Solbergelva",
+    "grend": "Solbergåsen"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Solbergelva",
+    "grend": "Vinnes"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Steinberg",
+    "grend": "Steinberg"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Ytterkollen",
+    "grend": "Sandstranda"
+  },
+  {
+    "kommune": "Nedre Eiker (tidl.)",
+    "postnummersted": "Ytterkollen",
+    "grend": "Ytterkollen"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Eggedal",
+    "grend": "Eggedal"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Eggedal",
+    "grend": "Grønhovdsroa"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Eggedal",
+    "grend": "Haglebu"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Eggedal",
+    "grend": "Nedre Eggedal"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Eggedal",
+    "grend": "Tempelseter"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Nerstad",
+    "grend": "Nerstad"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Båsum"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Eidal"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Enderud"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Green"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Grenskogen"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Haga"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Kolsrud"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Kringstad"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Nes"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Nordbygda"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Nubberud"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Prestfoss"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Ramstad"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Solumsmoen"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Vatnås"
+  },
+  {
+    "kommune": "Sigdal",
+    "postnummersted": "Prestfoss",
+    "grend": "Vestbygda"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Berg"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Bermingrud"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Besseberg"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Burud"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Daler"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Dramdal"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Eik"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Grøsland"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Haga"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Hals"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Haug"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Hedenstad"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Hobbelstad"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Hoen"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Hokksund"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Hvitstein"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Lobben"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Loesmoen"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Lunde"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Røkeberg"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Røren"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Sem"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Såsen"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Sønju"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Varlobygda"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Hokksund",
+    "grend": "Ås"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Skotselv",
+    "grend": "Bakke"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Skotselv",
+    "grend": "Bingen"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Skotselv",
+    "grend": "Skotselv"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Boksrud"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Bollerud"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Brekke"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Darbu"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Fiskum"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Gulliksrud"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Gunhildrud"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Holte"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Horne"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Jaren"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Liverud"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Lundteigen"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Myre"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Ormåsen"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Paule"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Råen"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Skjelbred"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Sundhaugen"
+  },
+  {
+    "kommune": "Øvre Eiker",
+    "postnummersted": "Vestfossen",
+    "grend": "Vestfossen"
+  }
+]

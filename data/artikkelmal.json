@@ -1,0 +1,20 @@
+{
+  "id": "unik-artikkel-slug",
+  "tittel": "Tittel på artikkelen",
+  "ingress": "Kort forklaring på hvorfor saken er viktig.",
+  "tekst": [
+    "Første avsnitt i artikkelen.",
+    "Neste avsnitt. Fakta skal være etterprøvbare."
+  ],
+  "hovedkategori": "Politikk",
+  "underkategori": "Kommunestyre",
+  "journalist_id": "sigrid-horne",
+  "sted": "Øvre Eiker",
+  "publisert": "2026-11-11T08:00:00+01:00",
+  "oppdatert": null,
+  "bilde": "assets/politics.webp",
+  "bildealt": "Beskriv hva bildet viser",
+  "tags": ["kommune", "politikk"],
+  "demo": false,
+  "fremhevet": false
+}

@@ -1,0 +1,546 @@
+[
+  {
+    "id": "bruene-i-eiker",
+    "tittel": "Bruene som binder Eiker sammen",
+    "ingress": "Fra gamle ferjesteder til moderne veiforbindelser: Drammenselva har alltid vært både et skille og en møteplass.",
+    "tekst": [
+      "Broene har satt sitt preg på ferdselen mellom bygdene i generasjoner.",
+      "For folk som går, sykler, kjører eller tar bussen, handler gode forbindelser om mer enn antall kjørefelt. Det handler om hverdagen – om å rekke arbeid, skole og fritidsaktiviteter.",
+      "Denne eksempelartikkelen viser hvordan en større lokal sak skal presenteres med bilde, ingress, brødtekst og lenker til beslektede emner."
+    ],
+    "hovedkategori": "Trafikk og samferdsel",
+    "underkategori": "Bruer og tunneler",
+    "journalist_id": "katarzyna-nowak",
+    "sted": "Eiker og omegn",
+    "publisert": "2026-11-11T08:14:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/bridge.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "bru",
+      "drammenselva",
+      "trafikk",
+      "sykkel",
+      "historie"
+    ],
+    "demo": true,
+    "fremhevet": true
+  },
+  {
+    "id": "kommunebudsjettet-i-grendene",
+    "tittel": "Kommunebudsjettet – sett fra grendene",
+    "ingress": "Små og store prioriteringer får forskjellige utslag i sentrum og ute i bygdene.",
+    "tekst": [
+      "Et kommunebudsjett er mer enn en oversikt over kroner og øre. Det er også en oversikt over hva politikerne ønsker å prioritere.",
+      "I en ferdig reportasje vil leseren finne dokumenterte vedtak, konkrete beløp og synspunkter fra flere parter."
+    ],
+    "hovedkategori": "Politikk",
+    "underkategori": "Budsjett og regnskap",
+    "journalist_id": "amar-singh",
+    "sted": "Øvre Eiker",
+    "publisert": "2026-11-11T07:48:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/politics.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "kommune",
+      "budsjett",
+      "bygder",
+      "politikk"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "slik-arbeider-politiet-forebyggende",
+    "tittel": "Slik arbeider politiet forebyggende",
+    "ingress": "Et blikk på samarbeidet mellom politi, kommuner, frivillige og lokalmiljø.",
+    "tekst": [
+      "Forebygging er en viktig del av politiets arbeid og omfatter mer enn uniformert tilstedeværelse.",
+      "God lokaljournalistikk skiller mellom bekreftede hendelser, generelle tiltak og vurderinger fra kilder."
+    ],
+    "hovedkategori": "Politi og rett",
+    "underkategori": "Politiets forebygging",
+    "journalist_id": "aida-hadzic",
+    "sted": "Eiker og omegn",
+    "publisert": "2026-11-11T07:10:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/police.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "politi",
+      "forebygging",
+      "trygghet",
+      "beredskap"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "sykkelmiljoet-pa-eiker",
+    "tittel": "Sykkelmiljøet – fra trening til fellesskap",
+    "ingress": "Landevei, grus og klubbkvelder: sykling er både konkurranse og hverdagsglede.",
+    "tekst": [
+      "Det lokale sykkelmiljøet omfatter utøvere på mange nivåer og med svært ulike mål.",
+      "I en publisert sportsreportasje kan resultater, sitater og klubbtilknytninger fylles inn etter verifisering."
+    ],
+    "hovedkategori": "Sport",
+    "underkategori": "Landeveissykling",
+    "journalist_id": "milena-kovacevic",
+    "sted": "Eiker og omegn",
+    "publisert": "2026-11-11T06:54:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/cycling.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "sykkel",
+      "idrett",
+      "landevei",
+      "klubb"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "eikers-industriminner",
+    "tittel": "Industribygningene forteller fortsatt",
+    "ingress": "Langs elver og veier finnes spor etter flere generasjoner med produksjon og håndverk.",
+    "tekst": [
+      "Industrien har bidratt til å forme lokalsamfunnene, arbeidslivet og landskapet i Eiker.",
+      "Gamle fabrikker kan bli gjenbrukt på ulike måter; eksempelteksten demonstrerer en reportasje med historisk perspektiv."
+    ],
+    "hovedkategori": "Næringsliv",
+    "underkategori": "Industri og produksjon",
+    "journalist_id": "priya-sharma",
+    "sted": "Nedre Eiker",
+    "publisert": "2026-11-11T06:15:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/industry.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "industri",
+      "næringsliv",
+      "bygninger",
+      "historie"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "turstiene-som-knytter-oss-sammen",
+    "tittel": "Turstiene som knytter folk sammen",
+    "ingress": "Merking, dugnad og gode rasteplasser gjør nærturen enklere.",
+    "tekst": [
+      "Et godt stinett blir til gjennom innsats fra både grunneiere, frivillige og offentlige aktører.",
+      "Denne malen kan senere fylles med konkrete løyper og tilgjengelighetsopplysninger."
+    ],
+    "hovedkategori": "Lokalsamfunn",
+    "underkategori": "Turstier",
+    "journalist_id": "piotr-kowalski",
+    "sted": "Modum",
+    "publisert": "2026-11-11T05:35:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/nature.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "friluft",
+      "sti",
+      "natur",
+      "dugnad"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "helgens-program-i-bygdene",
+    "tittel": "Helgens program i bygdene",
+    "ingress": "Slik kan en samlet kultur- og aktivitetskalender se ut.",
+    "tekst": [
+      "Aktiviteter kan publiseres med dato, sted, arrangør og en lenke til mer informasjon.",
+      "Kontroller alltid tid og sted mot arrangør før en arrangementssak blir publisert."
+    ],
+    "hovedkategori": "Dette skjer",
+    "underkategori": "Helgens arrangementer",
+    "journalist_id": "sanjay-patel",
+    "sted": "Eiker og omegn",
+    "publisert": "2026-11-11T04:30:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/stamp-church.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "arrangement",
+      "helg",
+      "kultur",
+      "kalender"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "to-sider-av-samme-vassdrag",
+    "tittel": "To sider av samme vassdrag",
+    "ingress": "Elva er både transportvei, naturmiljø og en del av identiteten til bygdene.",
+    "tekst": [
+      "Vassdragene er viktige for natur, aktivitet og lokalt særpreg.",
+      "Når vi forteller historiene om elva, bør både kulturhistorie og naturhensyn få plass."
+    ],
+    "hovedkategori": "Lokalsamfunn",
+    "underkategori": "Natur og miljø",
+    "journalist_id": "anne-grete-haug",
+    "sted": "Nedre Eiker",
+    "publisert": "2026-11-10T15:24:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/nature.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "elv",
+      "miljø",
+      "natur",
+      "vassdrag"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "over-skog-og-fjell",
+    "tittel": "Over skog og fjell i gamle reiseskildringer",
+    "ingress": "Stedsnavn og ferdselsårer gir et glimt av tidligere tiders hverdagsliv.",
+    "tekst": [
+      "Gamle kart og kilder kan vise hvordan bygdene har endret seg.",
+      "En historisk artikkel skal oppgi kilder tydelig og skille dokumenterte opplysninger fra tolkninger."
+    ],
+    "hovedkategori": "Kultur og fritid",
+    "underkategori": "Kulturarv og lokalhistorie",
+    "journalist_id": "emir-begovic",
+    "sted": "Sigdal",
+    "publisert": "2026-11-10T12:42:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/nature.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "historie",
+      "skog",
+      "sted",
+      "ferdsel"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "energiens-veier",
+    "tittel": "Energiens veier gjennom lokalsamfunnet",
+    "ingress": "Kraftproduksjon, nett og forbruk er tett knyttet til industrihistorien.",
+    "tekst": [
+      "Elektrisitet har preget utviklingen i regionen i lang tid.",
+      "Dette er et plassholdereksempel på en forklarende næringslivssak."
+    ],
+    "hovedkategori": "Næringsliv",
+    "underkategori": "Kraftproduksjon",
+    "journalist_id": "priya-sharma",
+    "sted": "Modum",
+    "publisert": "2026-11-10T11:19:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/industry.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "energi",
+      "kraft",
+      "industri",
+      "teknologi"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "sykkelstien-som-samfunnsrom",
+    "tittel": "Sykkelstien som samfunnsrom",
+    "ingress": "Trygge forbindelser for gående og syklende handler også om lokal livskvalitet.",
+    "tekst": [
+      "En gang- og sykkelvei kan knytte sammen skole, arbeid og fritidsmål.",
+      "Fremtidige artikler skal skille planlagte, vedtatte og ferdigstilte tiltak tydelig."
+    ],
+    "hovedkategori": "Trafikk og samferdsel",
+    "underkategori": "Gang- og sykkelveier",
+    "journalist_id": "eivind-skistad",
+    "sted": "Øvre Eiker",
+    "publisert": "2026-11-10T10:11:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/cycling.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "sykkel",
+      "trafikk",
+      "gangvei",
+      "sikkerhet"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "de-gamle-skolestedene",
+    "tittel": "Skolen og bygda – en felles historie",
+    "ingress": "Skolestedene er sentrale møteplasser i mange lokalsamfunn.",
+    "tekst": [
+      "Skoler er viktige institusjoner for både barn, familier og lokalmiljøet.",
+      "I lokaljournalistikk om skole er det viktig å skille vedtak, forslag og innspill fra berørte."
+    ],
+    "hovedkategori": "Lokalsamfunn",
+    "underkategori": "Grunnskoler",
+    "journalist_id": "piotr-kowalski",
+    "sted": "Krødsherad",
+    "publisert": "2026-11-10T08:30:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/stamp-church.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "skole",
+      "bygda",
+      "barn",
+      "politikk"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "hvem-taler-for-grendene",
+    "tittel": "Hvem taler for de små grendene?",
+    "ingress": "Når saker diskuteres i kommunestyret, er det ikke alltid de største stedene som har mest på spill.",
+    "tekst": [
+      "Lokale innspill kan gi kommunepolitikken et viktig korrektiv.",
+      "En god debattartikkel gir plass til ulike syn, men krever fortsatt dokumentasjon av faktiske påstander."
+    ],
+    "hovedkategori": "Politikk",
+    "underkategori": "Innbyggerforslag",
+    "journalist_id": "sigrid-horne",
+    "sted": "Modum",
+    "publisert": "2026-11-09T16:01:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/politics.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "politikk",
+      "grender",
+      "demokrati"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "skogens-liv",
+    "tittel": "Skogens liv gjennom årstidene",
+    "ingress": "Spor i snø og stillhet i skogen åpner for små oppdagelser nær hjemmet.",
+    "tekst": [
+      "Skogen rommer mange ulike leveområder, fra myr til åsrygg.",
+      "En naturartikkel kan kombinere artskunnskap, turinformasjon og råd om hensynsfull ferdsel."
+    ],
+    "hovedkategori": "Lokalsamfunn",
+    "underkategori": "Dyreliv",
+    "journalist_id": "anne-grete-haug",
+    "sted": "Sigdal",
+    "publisert": "2026-11-09T13:20:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/nature.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "skog",
+      "dyr",
+      "natur",
+      "friluft"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "menneskene-bak-lokalidretten",
+    "tittel": "Menneskene bak breddeidretten",
+    "ingress": "Trenere, foreldre og frivillige holder klubbhverdagen i gang.",
+    "tekst": [
+      "Breddeidretten rommer både konkurranse og fellesskap.",
+      "Sportsstoffet skal dekke klubbene bredt og etterprøve resultater før publisering."
+    ],
+    "hovedkategori": "Sport",
+    "underkategori": "Breddeidrett",
+    "journalist_id": "lars-bingen",
+    "sted": "Nedre Eiker",
+    "publisert": "2026-11-09T11:45:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/cycling.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "sport",
+      "frivillighet",
+      "idrettslag"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "en-gammel-fabrikk-et-nytt-kapittel",
+    "tittel": "En gammel fabrikk, et nytt kapittel",
+    "ingress": "Bygninger fra industrien er viktige spor i bygdenes fortelling.",
+    "tekst": [
+      "Hva skal vi bevare, og hva skal vi bygge nytt?",
+      "Lokal kulturarv krever gode undersøkelser av både fortid og muligheter."
+    ],
+    "hovedkategori": "Kultur og fritid",
+    "underkategori": "Historiske bygninger",
+    "journalist_id": "emir-begovic",
+    "sted": "Øvre Eiker",
+    "publisert": "2026-11-09T10:02:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/industry.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "fabrikk",
+      "kulturarv",
+      "historie"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "leserens-stemme",
+    "tittel": "Når lokalsamfunnet må diskutere seg selv",
+    "ingress": "Et meningsstoff om hvorfor saklig uenighet er viktig for en levende offentlighet.",
+    "tekst": [
+      "Meninger og nyheter skal være tydelig merket og holdt fra hverandre.",
+      "Dette er et eksempel på en kommentar, ikke en redaksjonell stillingtagen til en aktuell sak."
+    ],
+    "hovedkategori": "Meninger",
+    "underkategori": "Kommentar",
+    "journalist_id": "aleksander-wisniewski",
+    "sted": "Eiker og omegn",
+    "publisert": "2026-11-09T09:11:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/stamp-factory.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "debatt",
+      "ytringsfrihet",
+      "meninger"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "paa-veien-hele-aaret",
+    "tittel": "På veien hele året",
+    "ingress": "Når været skifter, stilles nye krav til brøyting, strøing og ferdsel.",
+    "tekst": [
+      "Vinterføre påvirker både folk til fots, på sykkel og i bil.",
+      "Konkret føreinformasjon må hentes fra oppdaterte og etterprøvbare kilder."
+    ],
+    "hovedkategori": "Trafikk og samferdsel",
+    "underkategori": "Vinterføre",
+    "journalist_id": "eivind-skistad",
+    "sted": "Øvre Eiker",
+    "publisert": "2026-11-08T18:22:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/bus.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "vei",
+      "vinter",
+      "sikkerhet"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "historien-bak-stedsnavnene",
+    "tittel": "Historien som ligger i stedsnavnene",
+    "ingress": "Fra Bingen til Vestfossen: navnene forteller om arbeid, natur og eldre bosetting.",
+    "tekst": [
+      "Stedsnavn er en del av den lokale kulturarven.",
+      "Kilden til en navneforklaring bør kunne spores til stedsnavnregistre eller lokalhistoriske verk."
+    ],
+    "hovedkategori": "Kultur og fritid",
+    "underkategori": "Kulturarv og lokalhistorie",
+    "journalist_id": "ingrid-sundhaugen",
+    "sted": "Øvre Eiker",
+    "publisert": "2026-11-08T15:40:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/stamp-church.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "stedsnavn",
+      "bingen",
+      "vestfossen",
+      "historie"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "frivilligheten-i-hverdagen",
+    "tittel": "Dugnaden som aldri tar fri",
+    "ingress": "Bak mange små møteplasser står mennesker som stiller opp.",
+    "tekst": [
+      "Frivillighet kan ta mange former, fra anlegg og turstier til kulturarrangementer.",
+      "Sakene bør løfte fram menneskene og arbeidet deres."
+    ],
+    "hovedkategori": "Lokalsamfunn",
+    "underkategori": "Dugnad",
+    "journalist_id": "piotr-kowalski",
+    "sted": "Krødsherad",
+    "publisert": "2026-11-08T11:05:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/nature.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "frivillig",
+      "dugnad",
+      "bygda"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "naringen-i-bygdene",
+    "tittel": "Næringslivet som holder hjulene i gang",
+    "ingress": "Små virksomheter er med på å skape arbeid og aktivitet på mange steder.",
+    "tekst": [
+      "Lokal næringsjournalistikk handler både om økonomi, arbeidsplasser og menneskene bak tallene.",
+      "Ved omtale av konkrete selskaper må regnskap og fakta kontrolleres mot åpne registre."
+    ],
+    "hovedkategori": "Næringsliv",
+    "underkategori": "Lokale bedrifter",
+    "journalist_id": "kristian-fossesholm",
+    "sted": "Modum",
+    "publisert": "2026-11-08T09:00:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/industry.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "bedrift",
+      "arbeidsliv",
+      "modum"
+    ],
+    "demo": true,
+    "fremhevet": false
+  },
+  {
+    "id": "redaksjonens-prinsipper",
+    "tittel": "En avis skal tåle spørsmål",
+    "ingress": "Den lokale offentligheten trenger kritiske spørsmål og synlig kildegrunnlag.",
+    "tekst": [
+      "Lokale medier må være villige til å undersøke makt og å rette feil.",
+      "Vårt redaksjonelle utgangspunkt er at fakta og meninger skal skilles tydelig."
+    ],
+    "hovedkategori": "Meninger",
+    "underkategori": "Redaksjonell leder",
+    "journalist_id": "ragnhild-bergan",
+    "sted": "Eiker og omegn",
+    "publisert": "2026-11-08T07:14:00+01:00",
+    "oppdatert": null,
+    "bilde": "assets/stamp-factory.webp",
+    "bildealt": "Historiserende illustrasjonsbilde fra avisens designskisse",
+    "tags": [
+      "presse",
+      "meninger",
+      "redaksjon"
+    ],
+    "demo": true,
+    "fremhevet": false
+  }
+]

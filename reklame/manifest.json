@@ -1,0 +1,65 @@
+[
+  {
+    "id": "amot-bil-og-maskin-opel-1961",
+    "navn": "Åmot Bil og Maskin – Opel 1961",
+    "bilde": "reklame/amot-bil-og-maskin-opel-1961.webp",
+    "bildealt": "Retroillustrert reklame for Åmot Bil og Maskin – Opel 1961.",
+    "format": "illustrert-retroannonse"
+  },
+  {
+    "id": "ellefsen-skotoi-1935",
+    "navn": "Ellefsen Skotøiforretning – Vestfossen",
+    "bilde": "reklame/ellefsen-skotoi-1935.webp",
+    "bildealt": "Retroillustrert reklame for Ellefsen Skotøiforretning – Vestfossen.",
+    "format": "illustrert-retroannonse"
+  },
+  {
+    "id": "fiskum-meieri",
+    "navn": "Fiskum Meieri",
+    "bilde": "reklame/fiskum-meieri.webp",
+    "bildealt": "Retroillustrert reklame for Fiskum Meieri.",
+    "format": "illustrert-retroannonse"
+  },
+  {
+    "id": "izach-goldmann-stoffer-og-toi",
+    "navn": "Izach Goldmann – Stoffer og Tøi",
+    "bilde": "reklame/izach-goldmann-stoffer-og-toi.webp",
+    "bildealt": "Retroillustrert reklame for Izach Goldmann – Stoffer og Tøi.",
+    "format": "illustrert-retroannonse"
+  },
+  {
+    "id": "krokstadelva-bakeri",
+    "navn": "Krokstadelva Bakeri",
+    "bilde": "reklame/krokstadelva-bakeri.webp",
+    "bildealt": "Retroillustrert reklame for Krokstadelva Bakeri.",
+    "format": "illustrert-retroannonse"
+  },
+  {
+    "id": "margits-kjoleforretning",
+    "navn": "Margits Kjoleforretning",
+    "bilde": "reklame/margits-kjoleforretning.webp",
+    "bildealt": "Retroillustrert reklame for Margits Kjoleforretning.",
+    "format": "illustrert-retroannonse"
+  },
+  {
+    "id": "martinsen-frukt-og-tobak",
+    "navn": "O. Martinsen Frukt & Tobak",
+    "bilde": "reklame/martinsen-frukt-og-tobak.webp",
+    "bildealt": "Retroillustrert reklame for O. Martinsen Frukt & Tobak.",
+    "format": "illustrert-retroannonse"
+  },
+  {
+    "id": "prestfoss-sykkelforretning",
+    "navn": "Prestfoss Sykkelforretning",
+    "bilde": "reklame/prestfoss-sykkelforretning.webp",
+    "bildealt": "Retroillustrert reklame for Prestfoss Sykkelforretning.",
+    "format": "illustrert-retroannonse"
+  },
+  {
+    "id": "vikersund-undertoysmagasin",
+    "navn": "Vikersund Undertøysmagasin",
+    "bilde": "reklame/vikersund-undertoysmagasin.webp",
+    "bildealt": "Retroillustrert reklame for Vikersund Undertøysmagasin.",
+    "format": "illustrert-retroannonse"
+  }
+]

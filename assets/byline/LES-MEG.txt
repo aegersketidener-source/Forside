@@ -1,0 +1,5 @@
+Bylinebilder: 256 x 256 piksler, WebP, vises 64 x 64 ved artikler.
+Felt: bilde i data/journalister.json.
+Ingen bildebane: journalisten vises med initialer.
+Feil/manglende bilde: en bilde-feilhendelse erstatter bildet med initialer.
+Avatarfeltet er klikkbart og leder til journalistprofil.

@@ -1,0 +1,1377 @@
+{
+  "avis": "Ægerske Tidener",
+  "versjon": "2.0",
+  "beskrivelse": "Utvidet emneregister for Ægerske Tidener. De opprinnelige 54 oppføringene er bevart. Nye journalistkoblinger er redaksjonelle forslag basert på eksisterende fagfordeling, ikke bekreftede personlige spesialområder.",
+  "emner": [
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Vei og trafikk",
+      "journalist": "Eivind Skistad",
+      "journalist_id": "eivind-skistad"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Kollektivtransport",
+      "journalist": "Katarzyna Nowak",
+      "journalist_id": "katarzyna-nowak"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Trafikksikkerhet",
+      "journalist": "Eivind Skistad",
+      "journalist_id": "eivind-skistad"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Sykkel og gange",
+      "journalist": "Katarzyna Nowak",
+      "journalist_id": "katarzyna-nowak"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Veiprosjekter",
+      "journalist": "Eivind Skistad",
+      "journalist_id": "eivind-skistad"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Jernbane",
+      "journalist": "Katarzyna Nowak",
+      "journalist_id": "katarzyna-nowak"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Kommunestyre",
+      "journalist": "Sigrid Horne",
+      "journalist_id": "sigrid-horne"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Kommunal økonomi",
+      "journalist": "Amar Singh",
+      "journalist_id": "amar-singh"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Valg og partier",
+      "journalist": "Sigrid Horne",
+      "journalist_id": "sigrid-horne"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Arealplanlegging",
+      "journalist": "Amar Singh",
+      "journalist_id": "amar-singh"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Offentlig forvaltning",
+      "journalist": "Sigrid Horne",
+      "journalist_id": "sigrid-horne"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Skole- og oppvekstpolitikk",
+      "journalist": "Amar Singh",
+      "journalist_id": "amar-singh"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Kriminalitet",
+      "journalist": "Morten Kolberg",
+      "journalist_id": "morten-kolberg"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Politi og etterforskning",
+      "journalist": "Aida Hadžić",
+      "journalist_id": "aida-hadzic"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Domstoler og rettssaker",
+      "journalist": "Morten Kolberg",
+      "journalist_id": "morten-kolberg"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Beredskap og redning",
+      "journalist": "Aida Hadžić",
+      "journalist_id": "aida-hadzic"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Brann og ulykker",
+      "journalist": "Morten Kolberg",
+      "journalist_id": "morten-kolberg"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Forebygging",
+      "journalist": "Aida Hadžić",
+      "journalist_id": "aida-hadzic"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Fotball",
+      "journalist": "Lars Bingen",
+      "journalist_id": "lars-bingen"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Sykkelsport",
+      "journalist": "Milena Kovačević",
+      "journalist_id": "milena-kovacevic"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Ski og vinteridrett",
+      "journalist": "Lars Bingen",
+      "journalist_id": "lars-bingen"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Håndball",
+      "journalist": "Milena Kovačević",
+      "journalist_id": "milena-kovacevic"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Breddeidrett",
+      "journalist": "Lars Bingen",
+      "journalist_id": "lars-bingen"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Idrettslag og anlegg",
+      "journalist": "Milena Kovačević",
+      "journalist_id": "milena-kovacevic"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Nabolag og grender",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Oppvekst og skole",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Helse og omsorg",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Frivillighet",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Natur og miljø",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Friluftsliv og turhytter",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Lokale bedrifter",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Industri og produksjon",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Handel og service",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Arbeidsliv",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Eiendom og bolig",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Energi og teknologi",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Musikk",
+      "journalist": "Ingrid Sundhaugen",
+      "journalist_id": "ingrid-sundhaugen"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Kunst og utstillinger",
+      "journalist": "Emir Begović",
+      "journalist_id": "emir-begovic"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Litteratur",
+      "journalist": "Ingrid Sundhaugen",
+      "journalist_id": "ingrid-sundhaugen"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Kulturarv og lokalhistorie",
+      "journalist": "Emir Begović",
+      "journalist_id": "emir-begovic"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Scenekunst",
+      "journalist": "Ingrid Sundhaugen",
+      "journalist_id": "ingrid-sundhaugen"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Fritidsaktiviteter",
+      "journalist": "Emir Begović",
+      "journalist_id": "emir-begovic"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Leder",
+      "journalist": "Ragnhild Bergan",
+      "journalist_id": "ragnhild-bergan"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Kommentar",
+      "journalist": "Aleksander Wiśniewski",
+      "journalist_id": "aleksander-wisniewski"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Debatt",
+      "journalist": "Ragnhild Bergan",
+      "journalist_id": "ragnhild-bergan"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Kronikk",
+      "journalist": "Aleksander Wiśniewski",
+      "journalist_id": "aleksander-wisniewski"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Leserinnlegg",
+      "journalist": "Ragnhild Bergan",
+      "journalist_id": "ragnhild-bergan"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Analyse",
+      "journalist": "Aleksander Wiśniewski",
+      "journalist_id": "aleksander-wisniewski"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Arrangementer",
+      "journalist": "Maren Spæren",
+      "journalist_id": "maren-spaeren"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Konserter og forestillinger",
+      "journalist": "Sanjay Patel",
+      "journalist_id": "sanjay-patel"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Markeder og festivaler",
+      "journalist": "Maren Spæren",
+      "journalist_id": "maren-spaeren"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Idrettsarrangementer",
+      "journalist": "Sanjay Patel",
+      "journalist_id": "sanjay-patel"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Kurs og møter",
+      "journalist": "Maren Spæren",
+      "journalist_id": "maren-spaeren"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Familieaktiviteter",
+      "journalist": "Sanjay Patel",
+      "journalist_id": "sanjay-patel"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Trafikkmeldinger",
+      "journalist": "Eivind Skistad",
+      "journalist_id": "eivind-skistad"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Veistenging",
+      "journalist": "Katarzyna Nowak",
+      "journalist_id": "katarzyna-nowak"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Veivedlikehold",
+      "journalist": "Eivind Skistad",
+      "journalist_id": "eivind-skistad"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Bruer og tunneler",
+      "journalist": "Katarzyna Nowak",
+      "journalist_id": "katarzyna-nowak"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Fylkesveier",
+      "journalist": "Eivind Skistad",
+      "journalist_id": "eivind-skistad"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Kommunale veier",
+      "journalist": "Katarzyna Nowak",
+      "journalist_id": "katarzyna-nowak"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Trafikkulykker",
+      "journalist": "Eivind Skistad",
+      "journalist_id": "eivind-skistad"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Parkering",
+      "journalist": "Katarzyna Nowak",
+      "journalist_id": "katarzyna-nowak"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Bussruter",
+      "journalist": "Eivind Skistad",
+      "journalist_id": "eivind-skistad"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Togavganger",
+      "journalist": "Katarzyna Nowak",
+      "journalist_id": "katarzyna-nowak"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Gang- og sykkelveier",
+      "journalist": "Eivind Skistad",
+      "journalist_id": "eivind-skistad"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Sykkelpendling",
+      "journalist": "Katarzyna Nowak",
+      "journalist_id": "katarzyna-nowak"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Tungtransport",
+      "journalist": "Eivind Skistad",
+      "journalist_id": "eivind-skistad"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Fartsgrenser",
+      "journalist": "Katarzyna Nowak",
+      "journalist_id": "katarzyna-nowak"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Vinterføre",
+      "journalist": "Eivind Skistad",
+      "journalist_id": "eivind-skistad"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Trafikkontroller",
+      "journalist": "Katarzyna Nowak",
+      "journalist_id": "katarzyna-nowak"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Skoleskyss",
+      "journalist": "Eivind Skistad",
+      "journalist_id": "eivind-skistad"
+    },
+    {
+      "hovedkategori": "Trafikk og samferdsel",
+      "underkategori": "Universell utforming",
+      "journalist": "Katarzyna Nowak",
+      "journalist_id": "katarzyna-nowak"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Kommunestyremøter",
+      "journalist": "Sigrid Horne",
+      "journalist_id": "sigrid-horne"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Formannskap",
+      "journalist": "Amar Singh",
+      "journalist_id": "amar-singh"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Politiske utvalg",
+      "journalist": "Sigrid Horne",
+      "journalist_id": "sigrid-horne"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Ordføreren",
+      "journalist": "Amar Singh",
+      "journalist_id": "amar-singh"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Kommunale tjenester",
+      "journalist": "Sigrid Horne",
+      "journalist_id": "sigrid-horne"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Budsjett og regnskap",
+      "journalist": "Amar Singh",
+      "journalist_id": "amar-singh"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Eiendomsskatt",
+      "journalist": "Sigrid Horne",
+      "journalist_id": "sigrid-horne"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Kommunale avgifter",
+      "journalist": "Amar Singh",
+      "journalist_id": "amar-singh"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Byggesaker",
+      "journalist": "Sigrid Horne",
+      "journalist_id": "sigrid-horne"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Reguleringsplaner",
+      "journalist": "Amar Singh",
+      "journalist_id": "amar-singh"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Høringer",
+      "journalist": "Sigrid Horne",
+      "journalist_id": "sigrid-horne"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Kommunesamarbeid",
+      "journalist": "Amar Singh",
+      "journalist_id": "amar-singh"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Fylkespolitikk",
+      "journalist": "Sigrid Horne",
+      "journalist_id": "sigrid-horne"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Stortingspolitikk",
+      "journalist": "Amar Singh",
+      "journalist_id": "amar-singh"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Valgkamp",
+      "journalist": "Sigrid Horne",
+      "journalist_id": "sigrid-horne"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Innbyggerforslag",
+      "journalist": "Amar Singh",
+      "journalist_id": "amar-singh"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Offentlige anskaffelser",
+      "journalist": "Sigrid Horne",
+      "journalist_id": "sigrid-horne"
+    },
+    {
+      "hovedkategori": "Politikk",
+      "underkategori": "Åpenhet og innsyn",
+      "journalist": "Amar Singh",
+      "journalist_id": "amar-singh"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Tyveri og innbrudd",
+      "journalist": "Morten Kolberg",
+      "journalist_id": "morten-kolberg"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Vold og trusler",
+      "journalist": "Aida Hadžić",
+      "journalist_id": "aida-hadzic"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Narkotikakriminalitet",
+      "journalist": "Morten Kolberg",
+      "journalist_id": "morten-kolberg"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Økonomisk kriminalitet",
+      "journalist": "Aida Hadžić",
+      "journalist_id": "aida-hadzic"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Trafikkriminalitet",
+      "journalist": "Morten Kolberg",
+      "journalist_id": "morten-kolberg"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Savnet person",
+      "journalist": "Aida Hadžić",
+      "journalist_id": "aida-hadzic"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Etterlysninger",
+      "journalist": "Morten Kolberg",
+      "journalist_id": "morten-kolberg"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Straffesaker",
+      "journalist": "Aida Hadžić",
+      "journalist_id": "aida-hadzic"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Sivile saker",
+      "journalist": "Morten Kolberg",
+      "journalist_id": "morten-kolberg"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Dommer",
+      "journalist": "Aida Hadžić",
+      "journalist_id": "aida-hadzic"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Påtalemyndigheten",
+      "journalist": "Morten Kolberg",
+      "journalist_id": "morten-kolberg"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Politiets forebygging",
+      "journalist": "Aida Hadžić",
+      "journalist_id": "aida-hadzic"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Brannvesen",
+      "journalist": "Morten Kolberg",
+      "journalist_id": "morten-kolberg"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Ambulanse og akuttberedskap",
+      "journalist": "Aida Hadžić",
+      "journalist_id": "aida-hadzic"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Redningsaksjoner",
+      "journalist": "Morten Kolberg",
+      "journalist_id": "morten-kolberg"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Flomberedskap",
+      "journalist": "Aida Hadžić",
+      "journalist_id": "aida-hadzic"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Ekstremværberedskap",
+      "journalist": "Morten Kolberg",
+      "journalist_id": "morten-kolberg"
+    },
+    {
+      "hovedkategori": "Politi og rett",
+      "underkategori": "Digital kriminalitet",
+      "journalist": "Aida Hadžić",
+      "journalist_id": "aida-hadzic"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Barne- og ungdomsidrett",
+      "journalist": "Lars Bingen",
+      "journalist_id": "lars-bingen"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Veteranidrett",
+      "journalist": "Milena Kovačević",
+      "journalist_id": "milena-kovacevic"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Fotball herrer",
+      "journalist": "Lars Bingen",
+      "journalist_id": "lars-bingen"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Fotball kvinner",
+      "journalist": "Milena Kovačević",
+      "journalist_id": "milena-kovacevic"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Fotball ungdom",
+      "journalist": "Lars Bingen",
+      "journalist_id": "lars-bingen"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Landeveissykling",
+      "journalist": "Milena Kovačević",
+      "journalist_id": "milena-kovacevic"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Terrengsykling",
+      "journalist": "Lars Bingen",
+      "journalist_id": "lars-bingen"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Langrenn",
+      "journalist": "Milena Kovačević",
+      "journalist_id": "milena-kovacevic"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Alpint",
+      "journalist": "Lars Bingen",
+      "journalist_id": "lars-bingen"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Skiskyting",
+      "journalist": "Milena Kovačević",
+      "journalist_id": "milena-kovacevic"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Orientering",
+      "journalist": "Lars Bingen",
+      "journalist_id": "lars-bingen"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Friidrett",
+      "journalist": "Milena Kovačević",
+      "journalist_id": "milena-kovacevic"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Svømming",
+      "journalist": "Lars Bingen",
+      "journalist_id": "lars-bingen"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Kampsport",
+      "journalist": "Milena Kovačević",
+      "journalist_id": "milena-kovacevic"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Motorsport",
+      "journalist": "Lars Bingen",
+      "journalist_id": "lars-bingen"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "E-sport",
+      "journalist": "Milena Kovačević",
+      "journalist_id": "milena-kovacevic"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Turn og gymnastikk",
+      "journalist": "Lars Bingen",
+      "journalist_id": "lars-bingen"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Idrettspolitikk",
+      "journalist": "Milena Kovačević",
+      "journalist_id": "milena-kovacevic"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Resultater og tabeller",
+      "journalist": "Lars Bingen",
+      "journalist_id": "lars-bingen"
+    },
+    {
+      "hovedkategori": "Sport",
+      "underkategori": "Trenere og utøvere",
+      "journalist": "Milena Kovačević",
+      "journalist_id": "milena-kovacevic"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Grendeutvalg",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Velforeninger",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Barnehager",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Grunnskoler",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Videregående skole",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Skolebygg",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Eldreomsorg",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Fastlegetjenesten",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Psykisk helse",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Folkehelse",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Tilgjengelighet",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Boligområder",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Inkludering",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Integrering",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Ungdomstilbud",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Senioraktiviteter",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Dugnad",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Frivilligsentraler",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Dyreliv",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Avfall og gjenvinning",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Vann og avløp",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Turstier",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Badeplasser",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Naturreservater",
+      "journalist": "Piotr Kowalski",
+      "journalist_id": "piotr-kowalski"
+    },
+    {
+      "hovedkategori": "Lokalsamfunn",
+      "underkategori": "Lokale ildsjeler",
+      "journalist": "Anne-Grete Haug",
+      "journalist_id": "anne-grete-haug"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Nyetableringer",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Konkurser",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Bedriftsresultater",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Håndverk og bygg",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Landbruk",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Skogbruk",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Reiseliv",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Serveringssteder",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Butikker",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Næringsparker",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Industribedrifter",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Kraftproduksjon",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Strømnett",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Telekommunikasjon",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Digitalisering",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Kunstig intelligens",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Lærlinger",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Arbeidsplasser",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Arbeidsledighet",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Næringspolitikk",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Boligmarked",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Næringseiendom",
+      "journalist": "Priya Sharma",
+      "journalist_id": "priya-sharma"
+    },
+    {
+      "hovedkategori": "Næringsliv",
+      "underkategori": "Lokale gründere",
+      "journalist": "Kristian Fossesholm",
+      "journalist_id": "kristian-fossesholm"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Konserter",
+      "journalist": "Ingrid Sundhaugen",
+      "journalist_id": "ingrid-sundhaugen"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Lokale musikere",
+      "journalist": "Emir Begović",
+      "journalist_id": "emir-begovic"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Kor og korps",
+      "journalist": "Ingrid Sundhaugen",
+      "journalist_id": "ingrid-sundhaugen"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Teater",
+      "journalist": "Emir Begović",
+      "journalist_id": "emir-begovic"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Festivaler",
+      "journalist": "Ingrid Sundhaugen",
+      "journalist_id": "ingrid-sundhaugen"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Museer",
+      "journalist": "Emir Begović",
+      "journalist_id": "emir-begovic"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Kunstnere",
+      "journalist": "Ingrid Sundhaugen",
+      "journalist_id": "ingrid-sundhaugen"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Kunsthåndverk",
+      "journalist": "Emir Begović",
+      "journalist_id": "emir-begovic"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Bibliotek",
+      "journalist": "Ingrid Sundhaugen",
+      "journalist_id": "ingrid-sundhaugen"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Bokutgivelser",
+      "journalist": "Emir Begović",
+      "journalist_id": "emir-begovic"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Kulturminner",
+      "journalist": "Ingrid Sundhaugen",
+      "journalist_id": "ingrid-sundhaugen"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Historiske bygninger",
+      "journalist": "Emir Begović",
+      "journalist_id": "emir-begovic"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Lokalhistoriske personer",
+      "journalist": "Ingrid Sundhaugen",
+      "journalist_id": "ingrid-sundhaugen"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Arkiv og fotografier",
+      "journalist": "Emir Begović",
+      "journalist_id": "emir-begovic"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Tradisjoner",
+      "journalist": "Ingrid Sundhaugen",
+      "journalist_id": "ingrid-sundhaugen"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Matkultur",
+      "journalist": "Emir Begović",
+      "journalist_id": "emir-begovic"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Kulturtilbud for barn",
+      "journalist": "Ingrid Sundhaugen",
+      "journalist_id": "ingrid-sundhaugen"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Ungdomskultur",
+      "journalist": "Emir Begović",
+      "journalist_id": "emir-begovic"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Friluftsarrangementer",
+      "journalist": "Ingrid Sundhaugen",
+      "journalist_id": "ingrid-sundhaugen"
+    },
+    {
+      "hovedkategori": "Kultur og fritid",
+      "underkategori": "Kulturpolitikk",
+      "journalist": "Emir Begović",
+      "journalist_id": "emir-begovic"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Redaksjonell leder",
+      "journalist": "Ragnhild Bergan",
+      "journalist_id": "ragnhild-bergan"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Politisk kommentar",
+      "journalist": "Aleksander Wiśniewski",
+      "journalist_id": "aleksander-wisniewski"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Samfunnskommentar",
+      "journalist": "Ragnhild Bergan",
+      "journalist_id": "ragnhild-bergan"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Idrettskommentar",
+      "journalist": "Aleksander Wiśniewski",
+      "journalist_id": "aleksander-wisniewski"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Faktasjekk",
+      "journalist": "Ragnhild Bergan",
+      "journalist_id": "ragnhild-bergan"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Bakgrunn",
+      "journalist": "Aleksander Wiśniewski",
+      "journalist_id": "aleksander-wisniewski"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Perspektiv",
+      "journalist": "Ragnhild Bergan",
+      "journalist_id": "ragnhild-bergan"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Gjestekommentar",
+      "journalist": "Aleksander Wiśniewski",
+      "journalist_id": "aleksander-wisniewski"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Åpent brev",
+      "journalist": "Ragnhild Bergan",
+      "journalist_id": "ragnhild-bergan"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Replikk",
+      "journalist": "Aleksander Wiśniewski",
+      "journalist_id": "aleksander-wisniewski"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Tilsvar",
+      "journalist": "Ragnhild Bergan",
+      "journalist_id": "ragnhild-bergan"
+    },
+    {
+      "hovedkategori": "Meninger",
+      "underkategori": "Spørsmål og svar",
+      "journalist": "Aleksander Wiśniewski",
+      "journalist_id": "aleksander-wisniewski"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Denne uken",
+      "journalist": "Maren Spæren",
+      "journalist_id": "maren-spaeren"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Helgens arrangementer",
+      "journalist": "Sanjay Patel",
+      "journalist_id": "sanjay-patel"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Barn og familie",
+      "journalist": "Maren Spæren",
+      "journalist_id": "maren-spaeren"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Konsertkalender",
+      "journalist": "Sanjay Patel",
+      "journalist_id": "sanjay-patel"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Teaterkalender",
+      "journalist": "Maren Spæren",
+      "journalist_id": "maren-spaeren"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Utstillinger",
+      "journalist": "Sanjay Patel",
+      "journalist_id": "sanjay-patel"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Foredrag",
+      "journalist": "Maren Spæren",
+      "journalist_id": "maren-spaeren"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Bibliotekarrangementer",
+      "journalist": "Sanjay Patel",
+      "journalist_id": "sanjay-patel"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Tur og friluft",
+      "journalist": "Maren Spæren",
+      "journalist_id": "maren-spaeren"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Idrettskalender",
+      "journalist": "Sanjay Patel",
+      "journalist_id": "sanjay-patel"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Loppemarkeder",
+      "journalist": "Maren Spæren",
+      "journalist_id": "maren-spaeren"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Julemarkeder",
+      "journalist": "Sanjay Patel",
+      "journalist_id": "sanjay-patel"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Bygdedager",
+      "journalist": "Maren Spæren",
+      "journalist_id": "maren-spaeren"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Frivillighetsarrangementer",
+      "journalist": "Sanjay Patel",
+      "journalist_id": "sanjay-patel"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Politiske møter",
+      "journalist": "Maren Spæren",
+      "journalist_id": "maren-spaeren"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Åpne møter",
+      "journalist": "Sanjay Patel",
+      "journalist_id": "sanjay-patel"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Kurs og opplæring",
+      "journalist": "Maren Spæren",
+      "journalist_id": "maren-spaeren"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Seniorarrangementer",
+      "journalist": "Sanjay Patel",
+      "journalist_id": "sanjay-patel"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Ungdomsarrangementer",
+      "journalist": "Maren Spæren",
+      "journalist_id": "maren-spaeren"
+    },
+    {
+      "hovedkategori": "Dette skjer",
+      "underkategori": "Høytider og markeringer",
+      "journalist": "Sanjay Patel",
+      "journalist_id": "sanjay-patel"
+    }
+  ],
+  "antall_emner": 228,
+  "antall_hovedkategorier": 9
+}

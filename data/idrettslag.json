@@ -1,0 +1,4912 @@
+{
+  "tittel": "Ægerske Tidender – idrettslagsregister",
+  "opprettet": "2026-11-11",
+  "omfang": "Øvre Eiker, tidligere Nedre Eiker, Modum, Sigdal og Krødsherad",
+  "fullstendighet": "Utvidet, kildebasert arbeidsregister. Ikke komplett; se feltkontroll og indikasjoner.",
+  "antall": 94,
+  "idrettslag": [
+    {
+      "navn": "Bakke IF",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Skotselv",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "håndball"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [
+          "rød",
+          "blå"
+        ],
+        "hex": []
+      },
+      "organisasjonsnummer": "993559938",
+      "hjemmebane": [
+        "Skotselvhallen"
+      ],
+      "nettsted": "https://www.bakke-if.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/993559938",
+        "https://www.handball.no/system/kamper/klubb/?klubbid=60607"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "bekreftet_brreg",
+        "organisasjonsnummer": "bekreftet_brreg",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "håndball_bekreftet_for_seksjon",
+        "farger": "håndballdrakt_bekreftet",
+        "geografi": "bekreftet_brreg",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": "Håndballforbundets stiftelsesdato 07.03.2013 gjelder håndballoppføringen og skal ikke brukes som stiftelsesdato for hele Bakke IF.",
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": "Dalerveien 20, 3330 Skotselv"
+    },
+    {
+      "navn": "Bingen Ballklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Skotselv",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "975587789",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/975587789",
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "bekreftet_brreg",
+        "organisasjonsnummer": "bekreftet_brreg",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "bekreftet_brreg",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": "Forretningsadresse i Modum, postadresse i Øvre Eiker. Geografisk nedslagsfelt kan omfatte begge.",
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": "Bingsveien 995, 3330 Skotselv"
+    },
+    {
+      "navn": "Eiker Badmintonklubb",
+      "stiftelsesdato": "2012-04-15",
+      "stiftelsesår": 2012,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "badminton"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "999261353",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/999261353"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "bekreftet_brreg_2026-11-11",
+        "organisasjonsnummer": "bekreftet_brreg",
+        "stiftelse": "bekreftet_brreg_2026-11-11",
+        "idretter": "bekreftet_brreg_aktivitet",
+        "farger": "ikke_kontrollert",
+        "geografi": "bekreftet_brreg",
+        "aktivitet": "ikke_kontrollert",
+        "registrert_adresse": "bekreftet_brreg_2026-11-11"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "badminton"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": "Rådhusgata, 3300 Hokksund"
+    },
+    {
+      "navn": "Eiker Bordtennisklubb",
+      "stiftelsesdato": "1996-02-13",
+      "stiftelsesår": 1996,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "bordtennis"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "983781160",
+      "hjemmebane": [],
+      "nettsted": "https://www.eikerbtk.no",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/983781160"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "bekreftet_brreg_2026-11-11",
+        "organisasjonsnummer": "bekreftet_brreg",
+        "stiftelse": "bekreftet_brreg_2026-11-11",
+        "idretter": "bekreftet_brreg_aktivitet",
+        "farger": "ikke_kontrollert",
+        "geografi": "bekreftet_brreg",
+        "aktivitet": "ikke_kontrollert",
+        "registrert_adresse": "bekreftet_brreg_2026-11-11",
+        "nettsted": "bekreftet_brreg_2026-11-11"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "bordtennis"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": "Lyngveien 48, 3300 Hokksund"
+    },
+    {
+      "navn": "Eiker Cheer Team",
+      "stiftelsesdato": "2005-06-15",
+      "stiftelsesår": 2005,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "cheerdans",
+        "cheerleading"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "990185662",
+      "hjemmebane": [],
+      "nettsted": "https://www.ecteagles.no",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/990185662"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "bekreftet_brreg_2026-11-11",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "bekreftet_brreg_2026-11-11",
+        "idretter": "bekreftet_brreg_aktivitet",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert",
+        "registrert_adresse": "bekreftet_brreg_2026-11-11",
+        "nettsted": "bekreftet_brreg_2026-11-11"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "cheerleading"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": "Lyngveien 48, 3300 Hokksund",
+      "tidligere_navn": [
+        "Eiker Cheerleading Team"
+      ]
+    },
+    {
+      "navn": "Eiker Cykleklubb",
+      "stiftelsesdato": "1980-10-17",
+      "stiftelsesår": 1980,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [
+        "Øvre Eiker",
+        "tidligere Nedre Eiker",
+        "Eiker og omegn"
+      ],
+      "idretter": [
+        "Landeveissykling",
+        "Terrengsykling",
+        "Sykkelkross",
+        "Fatbike"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "985395977",
+      "hjemmebane": [],
+      "nettsted": "https://eikerck.no/",
+      "logo_url": null,
+      "status": "aktiv",
+      "kilder": [
+        "https://eikerck.no/omklubben/",
+        "https://eikerck.no/wp-content/uploads/2023/03/Vedtekter-for-Eiker-Cykleklubb.pdf",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/985395977",
+        "https://sykling.no/nyheter/bli-kjent-med-eiker-cykleklubb-2/",
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "postadresse": "Postboks 366, 3301 Hokksund",
+      "historikk": "Etablert som sykkelmiljø under Steinberg IF i 1978; selvstendig klubb fra 17. oktober 1980.",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "kildebelagt_tidligere_kontroll",
+        "idretter": "kildebelagt_tidligere_kontroll",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "kildebelagt_tidligere_kontroll"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "sykling"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Eiker Falcons",
+      "stiftelsesdato": "2015-07-04",
+      "stiftelsesår": 2015,
+      "registrert_sted": null,
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "916085079",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/916085079"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "bekreftet_brreg_2026-11-11",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "bekreftet_brreg_2026-11-11",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Eiker Orienteringslag",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vestfossen",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "874249572",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "orientering"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Eiker Padleklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "989711024",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "padling"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Eiker Skiklubb",
+      "stiftelsesdato": "2017-09-26",
+      "stiftelsesår": 2017,
+      "registrert_sted": null,
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "ski"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "919916079",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/919916079"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "bekreftet_brreg_2026-11-11",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "bekreftet_brreg_2026-11-11",
+        "idretter": "bekreftet_brreg_aktivitet",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "ski"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Eiker Trialklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "985532141",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "trial"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Eiker Volleyball",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vestfossen",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "916111649",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "volleyball"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Fiskum Idrettslag",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Fiskum",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [
+        "Fiskum"
+      ],
+      "idretter": [
+        "fotball"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [
+          "oransje"
+        ],
+        "hex": []
+      },
+      "organisasjonsnummer": "887782962",
+      "hjemmebane": [
+        "Fiskumhallen"
+      ],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314",
+        "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=1727"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=1727",
+          "felter": [
+            "idretter",
+            "draktfarger",
+            "hjemmebane",
+            "registrert_sted"
+          ]
+        }
+      ],
+      "feltkilder": {
+        "registrert_adresse": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=1727",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFFs klubbprofil viser besøksadresse og aktivitet; stiftet 01.01.0001 betyr ukjent og er ikke brukt."
+        },
+        "nedslagsfelt": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=1727",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFFs klubbprofil viser besøksadresse og aktivitet; stiftet 01.01.0001 betyr ukjent og er ikke brukt."
+        }
+      },
+      "besøksadresse": "Kongsbergveien 690, Fiskum",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Fiskum Skytterlag",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Fiskum",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "899641302",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/899641302"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "skyting"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": "Kongsbergveien 802, 3322 Fiskum",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/899641302",
+          "felter": [
+            "organisasjonsnummer",
+            "registrert_adresse",
+            "registrert_sted"
+          ]
+        }
+      ]
+    },
+    {
+      "navn": "Grønland Crossklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Fiskum",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "988224669",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "motocross"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Hokksund Fotballklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "974685191",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "fotball"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Hokksund Freestyle Klubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "936785921",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "freestyle"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Hokksund Idrettslag",
+      "stiftelsesdato": "1904-01-03",
+      "stiftelsesår": 1904,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "fotball",
+        "håndball",
+        "padel",
+        "e-sport",
+        "basketball",
+        "allidrett"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "975588858",
+      "hjemmebane": [],
+      "nettsted": "https://www.hokksund-il.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314",
+        "https://virksomhet.brreg.no/nn/oppslag/enheter/975588858"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": "Ringeriksveien 33, 3303 Hokksund",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://virksomhet.brreg.no/nn/oppslag/enheter/975588858",
+          "felter": [
+            "stiftelsesdato",
+            "organisasjonsnummer",
+            "registrert_adresse",
+            "registrert_sted",
+            "nettsted",
+            "idretter"
+          ]
+        }
+      ]
+    },
+    {
+      "navn": "Hokksund Pistolklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Skotselv",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "988259551",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "pistolskyting"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Hokksund Slalåmklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "994820680",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "alpint"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Hokksund Taekwondoklubb",
+      "stiftelsesdato": "2016-04-06",
+      "stiftelsesår": 2016,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "taekwondo"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "917448523",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/917448523"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "bekreftet_brreg_2026-11-11",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "bekreftet_brreg_2026-11-11",
+        "idretter": "bekreftet_brreg_aktivitet",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert",
+        "registrert_adresse": "bekreftet_brreg_2026-11-11"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "taekwondo"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": "Industriveien 6, 3300 Hokksund"
+    },
+    {
+      "navn": "Hokksund Turnforening",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "975588815",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "turn"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "IF Eiker Kvikk",
+      "stiftelsesdato": "1995-02-20",
+      "stiftelsesår": 1995,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "skiskyting"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "974249650",
+      "hjemmebane": [],
+      "nettsted": "https://www.eikerkvikk.no",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/974249650",
+        "https://skiskyting.no/krets/buskerud/om-kretsen/klubber-i-krets/"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "bekreftet_brreg_2026-11-11",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "bekreftet_brreg_2026-11-11",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert",
+        "registrert_adresse": "bekreftet_brreg_2026-11-11",
+        "nettsted": "bekreftet_brreg_2026-11-11"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": "Semsmoveien 104, 3302 Hokksund",
+      "feltkilder": {
+        "idretter": {
+          "url": "https://skiskyting.no/krets/buskerud/om-kretsen/klubber-i-krets/",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "Norges Skiskytterforbund har klubben i Buskerud krets."
+        }
+      }
+    },
+    {
+      "navn": "IL Ramm-Eiker",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vestfossen",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "980217175",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Ormåsen Discgolfklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vestfossen",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "927988666",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "discgolf",
+        "golf"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Ormåsen Esport Klubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vestfossen",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "835151522",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "e-sport"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Skotselv Diskgolfklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Skotselv",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "936600190",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "discgolf",
+        "golf"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Vestfossen Idrettsforening",
+      "stiftelsesdato": "1910-01-20",
+      "stiftelsesår": 1910,
+      "registrert_sted": "Vestfossen",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [
+        "Vestfossen",
+        "Vestfossen og nærmeste omegn"
+      ],
+      "idretter": [
+        "fotball",
+        "håndball",
+        "ski",
+        "turn",
+        "tennis",
+        "trim",
+        "barneidrett"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [
+          "hvit"
+        ],
+        "hex": []
+      },
+      "organisasjonsnummer": "958454759",
+      "hjemmebane": [
+        "Strandajordet idrettspark",
+        "Vestfossen flerbrukshall"
+      ],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314",
+        "https://lokalhistoriewiki.no/wiki/Vestfossen_Idrettsforening",
+        "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=455"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": null,
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://lokalhistoriewiki.no/wiki/Vestfossen_Idrettsforening",
+          "felter": [
+            "stiftelsesdato",
+            "nedslagsfelt",
+            "idretter",
+            "hjemmebane"
+          ]
+        },
+        {
+          "kilde": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=455",
+          "felter": [
+            "draktfarger"
+          ]
+        }
+      ],
+      "feltkilder": {
+        "idretter": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=455",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter hvit fotballdrakt og stiftelsesdato; alle klubbfarger ikke dokumentert."
+        },
+        "draktfarger": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=455",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter hvit fotballdrakt og stiftelsesdato; alle klubbfarger ikke dokumentert."
+        }
+      }
+    },
+    {
+      "navn": "Øvre Eiker Svømmeklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "983577369",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "svømming"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Eiker Sjakklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "920211267",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "sjakk"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Eiker RC Klubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "997725301",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "radiostyrt motorsport"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Drammen Flyklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "979785135",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3314"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": "Registrert i Hokksund, men geografisk nedslagsfelt må dokumenteres.",
+      "idretter_fra_klubbnavn": [
+        "flysport"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Bingen Skytterlag",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Skotselv",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "817644732",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "skyting"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Dykkerklubb Modum",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Geithus",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "919331151",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "dykking"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Friskis & Svettis Modum",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vikersund",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "988933643",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "ski"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Furumo Curling Klubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Geithus",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "991573984",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "curling"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Geithus Idrettslag",
+      "stiftelsesdato": "1892-01-16",
+      "stiftelsesår": 1892,
+      "registrert_sted": "Geithus",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "fotball"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [
+          "gul"
+        ],
+        "hex": []
+      },
+      "organisasjonsnummer": "991793461",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316",
+        "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=447"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "feltkilder": {
+        "stiftelsesdato": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=447",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter fotballavdeling, stiftelsesdato og fotballdrakt; besøksadresse er ikke nødvendigvis juridisk registrert adresse."
+        },
+        "stiftelsesår": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=447",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter fotballavdeling, stiftelsesdato og fotballdrakt; besøksadresse er ikke nødvendigvis juridisk registrert adresse."
+        },
+        "idretter": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=447",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter fotballavdeling, stiftelsesdato og fotballdrakt; besøksadresse er ikke nødvendigvis juridisk registrert adresse."
+        },
+        "draktfarger": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=447",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter fotballavdeling, stiftelsesdato og fotballdrakt; besøksadresse er ikke nødvendigvis juridisk registrert adresse."
+        },
+        "registrert_adresse": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=447",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter fotballavdeling, stiftelsesdato og fotballdrakt; besøksadresse er ikke nødvendigvis juridisk registrert adresse."
+        },
+        "registrert_sted": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=447",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter fotballavdeling, stiftelsesdato og fotballdrakt; besøksadresse er ikke nødvendigvis juridisk registrert adresse."
+        }
+      },
+      "besøksadresse": "Gressbaneveien 16, Rolighetsmoen, Geithus",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Glitre Svømmeklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Geithus",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "920400175",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/920400175"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "svømming"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": "c/o Modum Svømmeklubb, 3360 Geithus",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/920400175",
+          "felter": [
+            "organisasjonsnummer",
+            "registrert_adresse",
+            "registrert_sted"
+          ]
+        }
+      ]
+    },
+    {
+      "navn": "Haugfoss Idrettsforening",
+      "stiftelsesdato": "1932-07-01",
+      "stiftelsesår": 1932,
+      "registrert_sted": "Åmot",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "fotball"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [
+          "grønn"
+        ],
+        "hex": []
+      },
+      "organisasjonsnummer": "981195213",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316",
+        "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=448"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "feltkilder": {
+        "stiftelsesdato": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=448",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF oppgir stiftelsesdato, drakt og fotballavdeling; adresse er NFFs besøksadresse."
+        },
+        "stiftelsesår": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=448",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF oppgir stiftelsesdato, drakt og fotballavdeling; adresse er NFFs besøksadresse."
+        },
+        "idretter": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=448",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF oppgir stiftelsesdato, drakt og fotballavdeling; adresse er NFFs besøksadresse."
+        },
+        "draktfarger": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=448",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF oppgir stiftelsesdato, drakt og fotballavdeling; adresse er NFFs besøksadresse."
+        },
+        "registrert_adresse": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=448",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF oppgir stiftelsesdato, drakt og fotballavdeling; adresse er NFFs besøksadresse."
+        },
+        "registrert_sted": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=448",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF oppgir stiftelsesdato, drakt og fotballavdeling; adresse er NFFs besøksadresse."
+        }
+      },
+      "besøksadresse": "Nymogata 30, 3340 Åmot",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Modum Bordtennisklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Geithus",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "971312629",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "bordtennis"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Modum Cykleklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "917020019",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "sykling"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Modum Fotballklubb",
+      "stiftelsesdato": "2007-05-30",
+      "stiftelsesår": 2007,
+      "registrert_sted": "Geithus",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [
+        "Modum"
+      ],
+      "idretter": [
+        "fotball"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "992423862",
+      "hjemmebane": [
+        "Rolighetsmoen"
+      ],
+      "nettsted": "https://www.modumfk.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316",
+        "https://www.modumfk.no/historie",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/992423862"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "fotball"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": "Gressbaneveien 16, 3360 Geithus",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://www.modumfk.no/historie",
+          "felter": [
+            "stiftelsesdato",
+            "idretter",
+            "hjemmebane",
+            "nedslagsfelt"
+          ]
+        },
+        {
+          "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/992423862",
+          "felter": [
+            "organisasjonsnummer",
+            "registrert_sted",
+            "registrert_adresse",
+            "nettsted"
+          ]
+        }
+      ]
+    },
+    {
+      "navn": "Modum Friidrettsklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Geithus",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "975549623",
+      "hjemmebane": [
+        "Furumo idrettspark"
+      ],
+      "nettsted": "https://www.modumfik.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/975549623"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "friidrett"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": "Furumo idrettspark, 3360 Geithus",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/975549623",
+          "felter": [
+            "organisasjonsnummer",
+            "registrert_adresse",
+            "registrert_sted",
+            "nettsted",
+            "hjemmebane"
+          ]
+        }
+      ]
+    },
+    {
+      "navn": "Modum Golf",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Åmot",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "926122142",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "golf"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Modum Karateklubb",
+      "stiftelsesdato": "2016-06-12",
+      "stiftelsesår": 2016,
+      "registrert_sted": "Geithus",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "fullkontakt karate"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "917351112",
+      "hjemmebane": [],
+      "nettsted": "https://www.modumkampsport.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/917351112"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "karate"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": "Gravfossveien 5E, 3360 Geithus",
+      "tidligere_navn": [
+        "Modum Karateklubb og Brasiliansk Jiu Jitsu",
+        "Modum Kyokushinkai Karateklubb"
+      ],
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/917351112",
+          "felter": [
+            "stiftelsesdato",
+            "organisasjonsnummer",
+            "registrert_adresse",
+            "registrert_sted",
+            "idretter",
+            "nettsted",
+            "tidligere_navn"
+          ]
+        }
+      ]
+    },
+    {
+      "navn": "Modum Motorsportklubb",
+      "stiftelsesdato": "2005-11-30",
+      "stiftelsesår": 2005,
+      "registrert_sted": "Geithus",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "trial"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "915480047",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/915480047"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "motorsport"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": "Katfoss, 3360 Geithus",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/915480047",
+          "felter": [
+            "stiftelsesdato",
+            "organisasjonsnummer",
+            "registrert_adresse",
+            "registrert_sted",
+            "idretter"
+          ]
+        }
+      ]
+    },
+    {
+      "navn": "Modum Mounted Games Association",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Geithus",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "992520663",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "mounted games"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Modum Orienteringslag",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vikersund",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "991422986",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "orientering"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Modum Padel Klubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Geithus",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "937262892",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "padel"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Modum Pistolklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vikersund",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "985490732",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "pistolskyting"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Modum Sjakklubbs Ungdom",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Åmot",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "996286959",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "sjakk"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Modum Street Workout",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Åmot",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "923595244",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "street workout"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Modum Svømmeklubb",
+      "stiftelsesdato": "1968-01-10",
+      "stiftelsesår": 1968,
+      "registrert_sted": "Geithus",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "svømming"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "981162927",
+      "hjemmebane": [],
+      "nettsted": "https://www.modumsk.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316",
+        "https://www.modumsk.no/wp-content/uploads/2026/02/010126-lovnorm-for-idrettslag-MSK.pdf",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/981162927"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "bekreftet_brreg",
+        "organisasjonsnummer": "bekreftet_brreg",
+        "stiftelse": "kildebelagt",
+        "idretter": "klubbnavn_og_brreg_identitet",
+        "farger": "ikke_kontrollert",
+        "geografi": "bekreftet_brreg",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "svømming"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": "Furumoveien 65, 3360 Geithus"
+    },
+    {
+      "navn": "Nordre Modum Skytterlag",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vikersund",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "912075028",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "skyting"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Norefjell Cykleklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vikersund",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "993803448",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "sykling"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Sigdal og Rosthaug Hestesportslag",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Åmot",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "993557625",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "e-sport",
+        "hestesport"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Simostranda IL",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Åmot",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [
+        "Simostranda"
+      ],
+      "idretter": [
+        "skiskyting",
+        "langrenn"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "983164978",
+      "hjemmebane": [
+        "Simostranda skiskytterstadion"
+      ],
+      "nettsted": "https://www.simostranda.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/983164978",
+        "https://www.simostranda.no/"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": "Eikvangveien 35, 3340 Åmot",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/983164978",
+          "felter": [
+            "organisasjonsnummer",
+            "registrert_adresse",
+            "registrert_sted",
+            "nettsted"
+          ]
+        }
+      ],
+      "feltkilder": {
+        "idretter": {
+          "url": "https://www.simostranda.no/",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "Klubbens egen nettside viser aktivitet i skiskyting og langrenn. Skiskytterstadion er også nevnt av Norges Skiskytterforbund."
+        },
+        "hjemmebane": {
+          "url": "https://www.simostranda.no/",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "Klubbens egen nettside viser aktivitet i skiskyting og langrenn. Skiskytterstadion er også nevnt av Norges Skiskytterforbund."
+        },
+        "nedslagsfelt": {
+          "url": "https://www.simostranda.no/",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "Klubbens egen nettside viser aktivitet i skiskyting og langrenn. Skiskytterstadion er også nevnt av Norges Skiskytterforbund."
+        }
+      }
+    },
+    {
+      "navn": "Snarum Skytterlag",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vikersund",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "917542066",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "skyting"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Søndre Modum Skytterlag",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Åmot",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "991398333",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "skyting"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Vestre Spone IF",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Åmot",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "982102308",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Vikersund Idrettsforening",
+      "stiftelsesdato": "1894-12-16",
+      "stiftelsesår": 1894,
+      "registrert_sted": "Vikersund",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "fotball"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [
+          "rød"
+        ],
+        "hex": []
+      },
+      "organisasjonsnummer": "871515212",
+      "hjemmebane": [],
+      "nettsted": "https://www.vikersundif.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/871515212",
+        "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=451"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/871515212",
+          "felter": [
+            "stiftelsesdato",
+            "organisasjonsnummer",
+            "registrert_adresse",
+            "registrert_sted",
+            "nettsted"
+          ]
+        }
+      ],
+      "feltkilder": {
+        "idretter": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=451",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter fotball og rød fotballdrakt; besøksadresse."
+        },
+        "draktfarger": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=451",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter fotball og rød fotballdrakt; besøksadresse."
+        },
+        "registrert_adresse": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=451",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter fotball og rød fotballdrakt; besøksadresse."
+        }
+      },
+      "besøksadresse": "Idrettsveien 17, Vikersund",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Åmot Idrettsforening",
+      "stiftelsesdato": "1919-03-19",
+      "stiftelsesår": 1919,
+      "registrert_sted": "Åmot",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "fotball"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [
+          "blå"
+        ],
+        "hex": []
+      },
+      "organisasjonsnummer": "971312564",
+      "hjemmebane": [],
+      "nettsted": "https://www.amotif.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/971312564",
+        "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=452"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": "Bårudåsen 14, 3340 Åmot",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/971312564",
+          "felter": [
+            "stiftelsesdato",
+            "organisasjonsnummer",
+            "registrert_adresse",
+            "registrert_sted",
+            "nettsted"
+          ]
+        }
+      ],
+      "feltkilder": {
+        "idretter": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=452",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter fotball og blå fotballdrakt."
+        },
+        "draktfarger": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=452",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter fotball og blå fotballdrakt."
+        }
+      }
+    },
+    {
+      "navn": "Tyrifjorden Trollingklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vikersund",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "915365574",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "sportsfiske"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Vikersund Bridgeklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vikersund",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "892153302",
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://opplysning.byndle.no/bransje/idrettslag/3316"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "bridge"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Sigdal Friidrettsklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Sigdal",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.sigdal.no/bo/lokale-idrettslag"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "friidrett"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Øvre Sigdal Idrettslag",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Sigdal",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.sigdal.no/bo/lokale-idrettslag"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Prestfoss Travselskap",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Prestfoss",
+      "kommune": "Sigdal",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.sigdal.no/bo/lokale-idrettslag"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "travsport"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Sigdal Volleyballklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Sigdal",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.sigdal.no/bo/lokale-idrettslag"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "volleyball"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "NMK Modum og Sigdal",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Sigdal",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.sigdal.no/bo/lokale-idrettslag"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Sigdal og Eggedal Pistolklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Sigdal",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.sigdal.no/bo/lokale-idrettslag"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "pistolskyting"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Sigdal Skiklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Sigdal",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.sigdal.no/bo/lokale-idrettslag",
+        "https://www.sigdal.no/bo/lokale-idrettslag"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "ski"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Eggedal Idrettslag",
+      "stiftelsesdato": null,
+      "stiftelsesår": 1894,
+      "registrert_sted": "Eggedal",
+      "kommune": "Sigdal",
+      "historisk_kommune": null,
+      "nedslagsfelt": [
+        "Eggedal og omegn"
+      ],
+      "idretter": [
+        "fotball",
+        "langrenn",
+        "skihopp",
+        "alpint",
+        "mosjon",
+        "kung fu"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [
+        "Eggedal idrettspark"
+      ],
+      "nettsted": "https://eggedalil.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.sigdal.no/bo/lokale-idrettslag",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/993820091",
+        "https://eggedalil.no/om-oss/"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "bekreftet_brreg",
+        "organisasjonsnummer": "bekreftet_brreg",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "bekreftet_brreg",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": "Strengåvad 5, 3359 Eggedal",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://eggedalil.no/om-oss/",
+          "felter": [
+            "stiftelsesår",
+            "idretter",
+            "hjemmebane",
+            "nedslagsfelt",
+            "nettsted",
+            "registrert_sted",
+            "registrert_adresse"
+          ]
+        }
+      ]
+    },
+    {
+      "navn": "Nedre Sigdal Idrettsforening",
+      "stiftelsesdato": "1995-01-01",
+      "stiftelsesår": 1995,
+      "registrert_sted": "Prestfoss",
+      "kommune": "Sigdal",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [
+        "allidrett",
+        "ski",
+        "håndball",
+        "fotball",
+        "orientering",
+        "trim"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "975586278",
+      "hjemmebane": [],
+      "nettsted": "https://nedresigdalif.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.sigdal.no/bo/lokale-idrettslag",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/975586278",
+        "https://nedresigdalif.no/kontakt/"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": "Sigdalsveien 1484, 3350 Prestfoss",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/975586278",
+          "felter": [
+            "stiftelsesdato",
+            "organisasjonsnummer",
+            "registrert_adresse",
+            "registrert_sted",
+            "nettsted"
+          ]
+        },
+        {
+          "kilde": "https://nedresigdalif.no/kontakt/",
+          "felter": [
+            "idretter"
+          ]
+        }
+      ]
+    },
+    {
+      "navn": "Stjerna Idrettslag",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Sigdal",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": "https://facebook.com/Stjerna-IL-355291518010252/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.sigdal.no/bo/lokale-idrettslag",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/993909823"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "bekreftet_brreg",
+        "organisasjonsnummer": "bekreftet_brreg",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "bekreftet_brreg",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": "Leikvang, Nedalsveien 1, 3358 Nedre Eggedal"
+    },
+    {
+      "navn": "Sigdal Skytterlag",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Sigdal",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.sigdal.no/bo/lokale-idrettslag"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "skyting"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Sigdal og Eggedal Leirdueklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Sigdal",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.sigdal.no/bo/lokale-idrettslag"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "leirdueskyting"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Krødsherad Idrettslag",
+      "stiftelsesdato": "1895-10-27",
+      "stiftelsesår": 1895,
+      "registrert_sted": "Krøderen",
+      "kommune": "Krødsherad",
+      "historisk_kommune": null,
+      "nedslagsfelt": [
+        "Krødsherad"
+      ],
+      "idretter": [
+        "fotball",
+        "håndball",
+        "friidrett",
+        "langrenn",
+        "alpint",
+        "volleyball",
+        "allidrett",
+        "styrketrening",
+        "trim"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [
+          "hvit"
+        ],
+        "hex": []
+      },
+      "organisasjonsnummer": "985350930",
+      "hjemmebane": [
+        "Noresund stadion",
+        "Krøderen stadion"
+      ],
+      "nettsted": "https://krodsherad-il.idrettenonline.no/",
+      "logo_url": null,
+      "status": "aktiv",
+      "kilder": [
+        "https://www.krodsherad.kommune.no/_f/p12/i2417bdff-8a6c-4844-adc3-2183f08a317b/kommunedelplan-for-idrett-og-fysisk-aktivitet-2018-22-rullering-november-2024.PDF",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/985350930",
+        "https://www.krodsherad.kommune.no/~/_f/p-1/idef5ce9b-1bd8-43c0-bbdd-c87e9afafd43/krodsherad_kommunekontakt_0225_a4_web.pdf",
+        "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=445"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "navn_i_registeroversikt",
+        "organisasjonsnummer": "kildebelagt",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "delvis_kildebelagt",
+        "farger": "ikke_kontrollert",
+        "geografi": "registrert_poststed_i_registeroversikt",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "kildebelagt_identitet",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": "Øvre Glesnetangen 18, 3535 Krøderen",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/985350930",
+          "felter": [
+            "organisasjonsnummer",
+            "registrert_sted",
+            "registrert_adresse",
+            "nettsted"
+          ]
+        }
+      ],
+      "feltkilder": {
+        "idretter": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=445",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter hvit fotballdrakt. 01.01.0001 i NFF er teknisk plassholder, ikke stiftelsesdato."
+        },
+        "draktfarger": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=445",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter hvit fotballdrakt. 01.01.0001 i NFF er teknisk plassholder, ikke stiftelsesdato."
+        }
+      }
+    },
+    {
+      "navn": "Krødsherad Skytterlag",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Krødsherad",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.krodsherad.kommune.no/_f/p12/i2417bdff-8a6c-4844-adc3-2183f08a317b/kommunedelplan-for-idrett-og-fysisk-aktivitet-2018-22-rullering-november-2024.PDF"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "skyting"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Krødsherad Jeger- og Fiskerforening",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Noresund",
+      "kommune": "Krødsherad",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.krodsherad.kommune.no/_f/p12/i2417bdff-8a6c-4844-adc3-2183f08a317b/kommunedelplan-for-idrett-og-fysisk-aktivitet-2018-22-rullering-november-2024.PDF"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "jakt og fiske"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Krødsherad Travselskap",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Krødsherad",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.krodsherad.kommune.no/_f/p12/i2417bdff-8a6c-4844-adc3-2183f08a317b/kommunedelplan-for-idrett-og-fysisk-aktivitet-2018-22-rullering-november-2024.PDF"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "travsport"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Norefjell Golfklubb",
+      "stiftelsesdato": "1993-09-07",
+      "stiftelsesår": 1993,
+      "registrert_sted": "Noresund",
+      "kommune": "Krødsherad",
+      "historisk_kommune": null,
+      "nedslagsfelt": [
+        "Noresund",
+        "Krødsherad"
+      ],
+      "idretter": [
+        "golf"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "979159420",
+      "hjemmebane": [
+        "Norefjell Golfklubb, 18-hullsbanen ved Noresund"
+      ],
+      "nettsted": "https://www.norefjell-golf.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.krodsherad.kommune.no/_f/p12/i2417bdff-8a6c-4844-adc3-2183f08a317b/kommunedelplan-for-idrett-og-fysisk-aktivitet-2018-22-rullering-november-2024.PDF",
+        "https://www.norefjell-golf.no/klubben/"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "golf"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null,
+      "feltkilder": {
+        "stiftelsesdato": {
+          "url": "https://www.norefjell-golf.no/klubben/",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "Egen klubbhistorikk bekrefter stiftelsesdato og bane; hjemmesiden annonserer barnetrening for Krødsherad/Sigdal/Modum, ikke nødvendigvis hele klubbens formelle nedslagsfelt."
+        },
+        "stiftelsesår": {
+          "url": "https://www.norefjell-golf.no/klubben/",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "Egen klubbhistorikk bekrefter stiftelsesdato og bane; hjemmesiden annonserer barnetrening for Krødsherad/Sigdal/Modum, ikke nødvendigvis hele klubbens formelle nedslagsfelt."
+        },
+        "idretter": {
+          "url": "https://www.norefjell-golf.no/klubben/",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "Egen klubbhistorikk bekrefter stiftelsesdato og bane; hjemmesiden annonserer barnetrening for Krødsherad/Sigdal/Modum, ikke nødvendigvis hele klubbens formelle nedslagsfelt."
+        },
+        "hjemmebane": {
+          "url": "https://www.norefjell-golf.no/klubben/",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "Egen klubbhistorikk bekrefter stiftelsesdato og bane; hjemmesiden annonserer barnetrening for Krødsherad/Sigdal/Modum, ikke nødvendigvis hele klubbens formelle nedslagsfelt."
+        },
+        "nedslagsfelt": {
+          "url": "https://www.norefjell-golf.no/klubben/",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "Egen klubbhistorikk bekrefter stiftelsesdato og bane; hjemmesiden annonserer barnetrening for Krødsherad/Sigdal/Modum, ikke nødvendigvis hele klubbens formelle nedslagsfelt."
+        },
+        "nettsted": {
+          "url": "https://www.norefjell-golf.no/klubben/",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "Egen klubbhistorikk bekrefter stiftelsesdato og bane; hjemmesiden annonserer barnetrening for Krødsherad/Sigdal/Modum, ikke nødvendigvis hele klubbens formelle nedslagsfelt."
+        },
+        "rekrutteringsområde_barnetrening": {
+          "url": "https://www.norefjell-golf.no/",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "Hjemmesidens gratistilbud for barn bosatt i disse tre kommunene."
+        }
+      },
+      "rekrutteringsområde_barnetrening": [
+        "Krødsherad",
+        "Sigdal",
+        "Modum"
+      ]
+    },
+    {
+      "navn": "Norefjell Sykkelklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": null,
+      "kommune": "Krødsherad",
+      "historisk_kommune": null,
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.krodsherad.kommune.no/_f/p12/i2417bdff-8a6c-4844-adc3-2183f08a317b/kommunedelplan-for-idrett-og-fysisk-aktivitet-2018-22-rullering-november-2024.PDF"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": null,
+      "idretter_fra_klubbnavn": [
+        "sykling"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Mjøndalen Idrettsforening",
+      "stiftelsesdato": "1910-08-22",
+      "stiftelsesår": 1910,
+      "registrert_sted": "Mjøndalen",
+      "kommune": "Drammen",
+      "historisk_kommune": "Nedre Eiker",
+      "nedslagsfelt": [
+        "Mjøndalen og omegn"
+      ],
+      "idretter": [
+        "fotball",
+        "bandy",
+        "baseball",
+        "håndball",
+        "turn",
+        "ski",
+        "judo",
+        "allidrett",
+        "tilrettelagt idrett"
+      ],
+      "farger": {
+        "klubbfarger": [
+          "brun",
+          "hvit"
+        ],
+        "draktfarger": [
+          "brun",
+          "hvit"
+        ],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [
+        "Consto Arena",
+        "Vassenga",
+        "Mjøndalshallen",
+        "Turnloftet"
+      ],
+      "nettsted": "https://www.mif.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.gulesider.no/idrettslag%2Bnedre%2Beiker/bedrifter",
+        "https://www.mif.no/klubbfakta/",
+        "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=458"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": "Må bekreftes at klubbens geografiske tilhørighet gjelder tidligere Nedre Eiker, ikke øvrige Drammen.",
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": null,
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://www.mif.no/klubbfakta/",
+          "felter": [
+            "stiftelsesdato",
+            "registrert_sted",
+            "nedslagsfelt",
+            "idretter",
+            "draktfarger",
+            "hjemmebane",
+            "nettsted"
+          ]
+        },
+        {
+          "kilde": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=458",
+          "felter": [
+            "klubbfarger"
+          ]
+        }
+      ]
+    },
+    {
+      "navn": "Mjøndalen Toppfotball",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Mjøndalen",
+      "kommune": "Drammen",
+      "historisk_kommune": "Nedre Eiker",
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.gulesider.no/idrettslag%2Bnedre%2Beiker/bedrifter"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": "Må bekreftes at klubbens geografiske tilhørighet gjelder tidligere Nedre Eiker, ikke øvrige Drammen.",
+      "idretter_fra_klubbnavn": [
+        "fotball"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Steinberg Idrettsforening",
+      "stiftelsesdato": "1926-08-11",
+      "stiftelsesår": 1926,
+      "registrert_sted": "Steinberg",
+      "kommune": "Drammen",
+      "historisk_kommune": "Nedre Eiker",
+      "nedslagsfelt": [],
+      "idretter": [
+        "fotball"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [
+          "rød"
+        ],
+        "hex": []
+      },
+      "organisasjonsnummer": "975539911",
+      "hjemmebane": [],
+      "nettsted": "https://steinbergif.no/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.gulesider.no/idrettslag%2Bnedre%2Beiker/bedrifter",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/975539911",
+        "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=460"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": "Må bekreftes at klubbens geografiske tilhørighet gjelder tidligere Nedre Eiker, ikke øvrige Drammen.",
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/975539911",
+          "felter": [
+            "stiftelsesdato",
+            "organisasjonsnummer",
+            "registrert_adresse",
+            "registrert_sted",
+            "nettsted"
+          ]
+        }
+      ],
+      "feltkilder": {
+        "idretter": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=460",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter rød fotballdrakt; NFFs 01.01.0001 er ikke gyldig stiftelsesdato."
+        },
+        "draktfarger": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=460",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter rød fotballdrakt; NFFs 01.01.0001 er ikke gyldig stiftelsesdato."
+        },
+        "registrert_adresse": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=460",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFF bekrefter rød fotballdrakt; NFFs 01.01.0001 er ikke gyldig stiftelsesdato."
+        }
+      },
+      "besøksadresse": "Steinbergveien 86, 3053 Steinberg",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Solberg Sportsklubb",
+      "stiftelsesdato": "1929-11-26",
+      "stiftelsesår": 1929,
+      "registrert_sted": "Solbergelva",
+      "kommune": "Drammen",
+      "historisk_kommune": "Nedre Eiker",
+      "nedslagsfelt": [
+        "Solbergelva"
+      ],
+      "idretter": [
+        "fotball"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [
+          "hvit"
+        ],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.gulesider.no/idrettslag%2Bnedre%2Beiker/bedrifter",
+        "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=459"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": "Må bekreftes at klubbens geografiske tilhørighet gjelder tidligere Nedre Eiker, ikke øvrige Drammen.",
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "feltkilder": {
+        "stiftelsesdato": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=459",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFFs klubbprofil; fotballdraktfarge er ikke nødvendigvis hele klubbens farger."
+        },
+        "stiftelsesår": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=459",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFFs klubbprofil; fotballdraktfarge er ikke nødvendigvis hele klubbens farger."
+        },
+        "idretter": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=459",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFFs klubbprofil; fotballdraktfarge er ikke nødvendigvis hele klubbens farger."
+        },
+        "draktfarger": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=459",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFFs klubbprofil; fotballdraktfarge er ikke nødvendigvis hele klubbens farger."
+        },
+        "registrert_adresse": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=459",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFFs klubbprofil; fotballdraktfarge er ikke nødvendigvis hele klubbens farger."
+        },
+        "registrert_sted": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=459",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFFs klubbprofil; fotballdraktfarge er ikke nødvendigvis hele klubbens farger."
+        },
+        "nedslagsfelt": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=459",
+          "kontrollert": "2026-11-11",
+          "beskrivelse": "NFFs klubbprofil; fotballdraktfarge er ikke nødvendigvis hele klubbens farger."
+        }
+      },
+      "besøksadresse": "Gamle Riksvei 102B, 3057 Solbergelva",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "NOR 92 Innebandyklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Mjøndalen",
+      "kommune": "Drammen",
+      "historisk_kommune": "Nedre Eiker",
+      "nedslagsfelt": [],
+      "idretter": [
+        "innebandy"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": "983251250",
+      "hjemmebane": [],
+      "nettsted": "https://www.nor92.com/",
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.gulesider.no/idrettslag%2Bnedre%2Beiker/bedrifter",
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/983251250"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": "Må bekreftes at klubbens geografiske tilhørighet gjelder tidligere Nedre Eiker, ikke øvrige Drammen.",
+      "idretter_fra_klubbnavn": [
+        "innebandy"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": "Hagatjernveien 19, 3050 Mjøndalen",
+      "kildekontroll_2026_11_11": [
+        {
+          "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/983251250",
+          "felter": [
+            "organisasjonsnummer",
+            "registrert_adresse",
+            "registrert_sted",
+            "nettsted"
+          ]
+        }
+      ]
+    },
+    {
+      "navn": "Nedre Eiker Svømmeklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Krokstadelva",
+      "kommune": "Drammen",
+      "historisk_kommune": "Nedre Eiker",
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.gulesider.no/idrettslag%2Bnedre%2Beiker/bedrifter"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": "Må bekreftes at klubbens geografiske tilhørighet gjelder tidligere Nedre Eiker, ikke øvrige Drammen.",
+      "idretter_fra_klubbnavn": [
+        "svømming"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Eiker Golfklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Mjøndalen",
+      "kommune": "Drammen",
+      "historisk_kommune": "Nedre Eiker",
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.gulesider.no/idrettslag%2Bnedre%2Beiker/bedrifter"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": "Må bekreftes at klubbens geografiske tilhørighet gjelder tidligere Nedre Eiker, ikke øvrige Drammen.",
+      "idretter_fra_klubbnavn": [
+        "golf"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Drammen Karateklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Mjøndalen",
+      "kommune": "Drammen",
+      "historisk_kommune": "Nedre Eiker",
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.gulesider.no/idrettslag%2Bnedre%2Beiker/bedrifter"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": "Må bekreftes at klubbens geografiske tilhørighet gjelder tidligere Nedre Eiker, ikke øvrige Drammen.",
+      "idretter_fra_klubbnavn": [
+        "karate"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Drammen Tamil Sportsklubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Solbergelva",
+      "kommune": "Drammen",
+      "historisk_kommune": "Nedre Eiker",
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.gulesider.no/idrettslag%2Bnedre%2Beiker/bedrifter"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": "Må bekreftes at klubbens geografiske tilhørighet gjelder tidligere Nedre Eiker, ikke øvrige Drammen.",
+      "idretter_fra_klubbnavn": [],
+      "idretter_fra_klubbnavn_status": "ingen_indikasjon",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Krokstad Sipalki Klubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Krokstadelva",
+      "kommune": "Drammen",
+      "historisk_kommune": "Nedre Eiker",
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.gulesider.no/idrettslag%2Bnedre%2Beiker/bedrifter"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": "Må bekreftes at klubbens geografiske tilhørighet gjelder tidligere Nedre Eiker, ikke øvrige Drammen.",
+      "idretter_fra_klubbnavn": [
+        "sipalki"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "Drammen Curling Clubb",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Krokstadelva",
+      "kommune": "Drammen",
+      "historisk_kommune": "Nedre Eiker",
+      "nedslagsfelt": [],
+      "idretter": [],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "ikke_verifisert",
+      "kilder": [
+        "https://www.gulesider.no/idrettslag%2Bnedre%2Beiker/bedrifter"
+      ],
+      "sist_verifisert": null,
+      "kontroll": {
+        "identitet": "ikke_kontrollert",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "ikke_kontrollert",
+        "farger": "ikke_kontrollert",
+        "geografi": "ikke_kontrollert",
+        "aktivitet": "ikke_kontrollert"
+      },
+      "registreringsstatus": "krever_identitetskontroll",
+      "redaksjonell_merknad": "Må bekreftes at klubbens geografiske tilhørighet gjelder tidligere Nedre Eiker, ikke øvrige Drammen.",
+      "idretter_fra_klubbnavn": [
+        "curling"
+      ],
+      "idretter_fra_klubbnavn_status": "indikasjon_ikke_verifisert",
+      "registrert_adresse": null
+    },
+    {
+      "navn": "IL Moingen",
+      "stiftelsesdato": null,
+      "stiftelsesår": null,
+      "registrert_sted": "Vikersund",
+      "kommune": "Modum",
+      "historisk_kommune": null,
+      "nedslagsfelt": [
+        "Moingen",
+        "Vikersund-området"
+      ],
+      "idretter": [
+        "fotball"
+      ],
+      "farger": {
+        "klubbfarger": [],
+        "draktfarger": [
+          "rød",
+          "blå"
+        ],
+        "hex": []
+      },
+      "organisasjonsnummer": null,
+      "hjemmebane": [
+        "Holemoen idrettsplass"
+      ],
+      "nettsted": null,
+      "logo_url": null,
+      "status": "aktiv_fotballavdeling_dokumentert",
+      "kilder": [
+        "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=449"
+      ],
+      "sist_verifisert": "2026-11-11",
+      "kontroll": {
+        "identitet": "bekreftet_nff",
+        "organisasjonsnummer": "ikke_kontrollert",
+        "stiftelse": "ikke_kontrollert",
+        "idretter": "fotball_bekreftet_nff",
+        "farger": "fotballdrakt_bekreftet_nff",
+        "geografi": "klubbprofil_nff",
+        "aktivitet": "fotballag_registrert_nff"
+      },
+      "registrert_adresse": null,
+      "besøksadresse": "Holemoen idrettsplass, Kaggefossveien 64, 3370 Vikersund (NFF)",
+      "postadresse": "Postboks 177, 3371 Vikersund (NFF)",
+      "feltkilder": {
+        "idretter": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=449"
+        },
+        "draktfarger": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=449"
+        },
+        "hjemmebane": {
+          "url": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=449"
+        }
+      }
+    }
+  ],
+  "kontrollstatus": "Delvis kildeberiket. Ikke komplett, ikke gjennomgått klubb for klubb.",
+  "kontrolldato": "2026-11-11",
+  "nye_kandidater_til_vurdering": [
+    {
+      "kommune": "Øvre Eiker",
+      "navn": "Hrimnir Islandshestforening",
+      "kilde": "https://www.xn--idrettsrd-d3a.no/siteassets/viken/ovre-eiker/blokker/dokumenter/arsberetning/ovre-eiker-idrettsrad---arsberetning-2025.pdf",
+      "status": "ikke_verifisert_som_idrettslag"
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Fastskate",
+      "kilde": "https://opplysning.byndle.no/bransje/idrettslag/3316",
+      "status": "ikke_verifisert_som_idrettslag"
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Vikersund IF Hoppsportens Venner",
+      "kilde": "https://opplysning.byndle.no/bransje/idrettslag/3316",
+      "status": "ikke_verifisert_som_idrettslag"
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Brak Airsoft",
+      "kilde": "https://opplysning.byndle.no/bransje/idrettslag/3316",
+      "status": "ikke_verifisert_som_idrettslag"
+    },
+    {
+      "kommune": "Modum",
+      "navn": "Team Klinkokos",
+      "kilde": "https://opplysning.byndle.no/bransje/idrettslag/3316",
+      "status": "ikke_verifisert_som_idrettslag"
+    }
+  ],
+  "redaksjonell_kvalitetsstandard": {
+    "kriterier": [
+      "Offisielt navn og orgnr mot Brønnøysund",
+      "Aktivitet og NIF-tilknytning mot idrettsråd eller klubb",
+      "Stiftelsesdato mot klubbhistorikk eller primærregister",
+      "Idretter mot klubbens egne aktiviteter",
+      "Farger mot offisiell profil eller klubbdrakt",
+      "Nedslagsfelt og hjemmebane mot klubbkilder",
+      "Tidligere Nedre Eiker må dokumenteres særskilt"
+    ],
+    "ukjent_verdi": "null eller tom liste",
+    "publiseringsregel": "Ikke presenter uverifiserte felt som fakta",
+    "kildemetode": "Feltvis kontrollstatus, kildelenker per klubb"
+  },
+  "kildegrunnlag_ny_gjennomgang": [
+    "https://opplysning.byndle.no/bransje/idrettslag/3314",
+    "https://opplysning.byndle.no/bransje/idrettslag/3316",
+    "https://www.sigdal.no/bo/lokale-idrettslag",
+    "https://www.modum.kommune.no/tjenester/idrett-og-friluftsliv/idrettsanlegg",
+    "https://www.xn--idrettsrd-d3a.no/siteassets/viken/ovre-eiker/blokker/dokumenter/arsberetning/ovre-eiker-idrettsrad---arsberetning-2025.pdf",
+    "https://virksomhet.brreg.no/nb/oppslag/enheter/999261353",
+    "https://virksomhet.brreg.no/nb/oppslag/enheter/983781160",
+    "https://virksomhet.brreg.no/nb/oppslag/enheter/975587789",
+    "https://virksomhet.brreg.no/nb/oppslag/enheter/993559938",
+    "https://virksomhet.brreg.no/nb/oppslag/enheter/981162927",
+    "https://virksomhet.brreg.no/nb/oppslag/enheter/993820091",
+    "https://virksomhet.brreg.no/nb/oppslag/enheter/993909823",
+    "https://www.sigdal.no/bo/lokale-idrettslag",
+    "https://www.handball.no/system/kamper/klubb/?klubbid=60607"
+  ],
+  "revisjon": "2026-11-11: Brønnøysundregistrene kontrollert for syv klubber; adresse, nettsider, dokumenterte aktiviteter og geografisk feilplassering korrigert. Navnebaserte idrettsindikasjoner lagt i eget felt, ikke presentert som verifiserte.",
+  "statistikk_feltdekning": {
+    "stiftelsesdato": 4,
+    "registrert_sted": 75,
+    "registrert_adresse": 7,
+    "nedslagsfelt": 2,
+    "idretter": 8,
+    "idretter_fra_klubbnavn": 69,
+    "organisasjonsnummer": 66,
+    "hjemmebane": 2,
+    "nettsted": 7,
+    "draktfarger": 2,
+    "klubbfarger": 0
+  },
+  "revisjon_fortsatt": {
+    "dato": "2026-11-11",
+    "metode": "Individuell kontroll mot Brønnøysundregistrenes offentlige virksomhetsopplysninger",
+    "oppdaterte_klubber": [
+      "Eiker Bordtennisklubb",
+      "Eiker Badmintonklubb",
+      "Hokksund Taekwondoklubb",
+      "Eiker Falcons",
+      "IF Eiker Kvikk",
+      "Eiker Cheer Team",
+      "Eiker Skiklubb"
+    ],
+    "antall_oppdaterte": 7,
+    "merknad": "Registreringsdato er ikke stiftelsesdato. Ingen antakelser om klubbfarger eller nedslagsfelt. Øvrige klubber er ikke fullverifisert i denne runden.",
+    "nye_kandidater": [
+      {
+        "navn": "Adventure Sport",
+        "organisasjonsnummer": "916105738",
+        "stiftelsesdato": "2015-07-16",
+        "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/916105738",
+        "status": "vurder_om_idrettslag_i_dekningsomradet"
+      },
+      {
+        "navn": "Øvre Eiker Energi Bedriftsidrettslag",
+        "organisasjonsnummer": "995459914",
+        "stiftelsesdato": "2010-03-23",
+        "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/995459914",
+        "status": "vurder_om_bedriftsidrett_skal_inkluderes"
+      }
+    ]
+  },
+  "revisjon_runde_4": {
+    "dato": "2026-11-11",
+    "metode": "Manuell kildeberiking fra offisielle klubbnettsider, NFF og Brønnøysundregistrene. Kilder lagret på hver oppføring.",
+    "oppdaterte_klubber": 18,
+    "oppdaterte_klubbnavn": [
+      "Mjøndalen Idrettsforening",
+      "Vestfossen Idrettsforening",
+      "Fiskum Idrettslag",
+      "Åmot Idrettsforening",
+      "Modum Fotballklubb",
+      "Nedre Sigdal Idrettsforening",
+      "Eggedal Idrettslag",
+      "Hokksund Idrettslag",
+      "Steinberg Idrettsforening",
+      "Vikersund Idrettsforening",
+      "Simostranda IL",
+      "Krødsherad Idrettslag",
+      "Modum Motorsportklubb",
+      "Modum Karateklubb",
+      "NOR 92 Innebandyklubb",
+      "Fiskum Skytterlag",
+      "Glitre Svømmeklubb",
+      "Modum Friidrettsklubb"
+    ],
+    "felter_endret_per_klubb": {
+      "Mjøndalen Idrettsforening": [
+        "stiftelsesdato",
+        "registrert_sted",
+        "nedslagsfelt",
+        "idretter",
+        "draktfarger",
+        "hjemmebane",
+        "nettsted",
+        "klubbfarger"
+      ],
+      "Vestfossen Idrettsforening": [
+        "stiftelsesdato",
+        "nedslagsfelt",
+        "idretter",
+        "hjemmebane",
+        "draktfarger"
+      ],
+      "Fiskum Idrettslag": [
+        "idretter",
+        "draktfarger",
+        "hjemmebane",
+        "registrert_sted"
+      ],
+      "Åmot Idrettsforening": [
+        "stiftelsesdato",
+        "organisasjonsnummer",
+        "registrert_adresse",
+        "registrert_sted",
+        "nettsted"
+      ],
+      "Modum Fotballklubb": [
+        "stiftelsesdato",
+        "idretter",
+        "hjemmebane",
+        "nedslagsfelt",
+        "organisasjonsnummer",
+        "registrert_sted",
+        "registrert_adresse",
+        "nettsted"
+      ],
+      "Nedre Sigdal Idrettsforening": [
+        "stiftelsesdato",
+        "organisasjonsnummer",
+        "registrert_adresse",
+        "registrert_sted",
+        "nettsted",
+        "idretter"
+      ],
+      "Eggedal Idrettslag": [
+        "stiftelsesår",
+        "idretter",
+        "hjemmebane",
+        "nedslagsfelt",
+        "nettsted",
+        "registrert_sted",
+        "registrert_adresse"
+      ],
+      "Hokksund Idrettslag": [
+        "stiftelsesdato",
+        "organisasjonsnummer",
+        "registrert_adresse",
+        "registrert_sted",
+        "nettsted",
+        "idretter"
+      ],
+      "Steinberg Idrettsforening": [
+        "stiftelsesdato",
+        "organisasjonsnummer",
+        "registrert_adresse",
+        "registrert_sted",
+        "nettsted"
+      ],
+      "Vikersund Idrettsforening": [
+        "stiftelsesdato",
+        "organisasjonsnummer",
+        "registrert_adresse",
+        "registrert_sted",
+        "nettsted"
+      ],
+      "Simostranda IL": [
+        "organisasjonsnummer",
+        "registrert_adresse",
+        "registrert_sted",
+        "nettsted"
+      ],
+      "Krødsherad Idrettslag": [
+        "organisasjonsnummer",
+        "registrert_sted",
+        "registrert_adresse",
+        "nettsted"
+      ],
+      "Modum Motorsportklubb": [
+        "stiftelsesdato",
+        "organisasjonsnummer",
+        "registrert_adresse",
+        "registrert_sted",
+        "idretter"
+      ],
+      "Modum Karateklubb": [
+        "stiftelsesdato",
+        "organisasjonsnummer",
+        "registrert_adresse",
+        "registrert_sted",
+        "idretter",
+        "nettsted",
+        "tidligere_navn"
+      ],
+      "NOR 92 Innebandyklubb": [
+        "organisasjonsnummer",
+        "registrert_adresse",
+        "registrert_sted",
+        "nettsted"
+      ],
+      "Fiskum Skytterlag": [
+        "organisasjonsnummer",
+        "registrert_adresse",
+        "registrert_sted"
+      ],
+      "Glitre Svømmeklubb": [
+        "organisasjonsnummer",
+        "registrert_adresse",
+        "registrert_sted"
+      ],
+      "Modum Friidrettsklubb": [
+        "organisasjonsnummer",
+        "registrert_adresse",
+        "registrert_sted",
+        "nettsted",
+        "hjemmebane"
+      ]
+    },
+    "begrensning": "Registerets samlede dekning, klubbstatus og gamle antagelser er ikke fullstendig revidert. Felt uten særskilt kilde i denne runden er arvet fra forrige versjon."
+  },
+  "statistikk_feltdekning_runde_4": {
+    "organisasjonsnummer": 69,
+    "stiftelsesdato": 20,
+    "stiftelsesår": 22,
+    "registrert_sted": 76,
+    "registrert_adresse": 24,
+    "nedslagsfelt": 6,
+    "idretter": 20,
+    "hjemmebane": 8,
+    "nettsted": 20
+  },
+  "revisjon_runde_5": {
+    "dato": "2026-11-11",
+    "endringer": [
+      {
+        "navn": "Geithus Idrettslag",
+        "felt": [
+          "stiftelsesdato",
+          "stiftelsesår",
+          "idretter",
+          "draktfarger",
+          "registrert_adresse"
+        ],
+        "kilde": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=447",
+        "merknad": "NFF bekrefter fotballavdeling, stiftelsesdato og fotballdrakt; besøksadresse er ikke nødvendigvis juridisk registrert adresse."
+      },
+      {
+        "navn": "Haugfoss Idrettsforening",
+        "felt": [
+          "stiftelsesdato",
+          "stiftelsesår",
+          "idretter",
+          "draktfarger",
+          "registrert_adresse"
+        ],
+        "kilde": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=448",
+        "merknad": "NFF oppgir stiftelsesdato, drakt og fotballavdeling; adresse er NFFs besøksadresse."
+      },
+      {
+        "navn": "Solberg Sportsklubb",
+        "felt": [
+          "stiftelsesdato",
+          "stiftelsesår",
+          "idretter",
+          "draktfarger",
+          "registrert_adresse",
+          "nedslagsfelt"
+        ],
+        "kilde": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=459",
+        "merknad": "NFFs klubbprofil; fotballdraktfarge er ikke nødvendigvis hele klubbens farger."
+      },
+      {
+        "navn": "Fiskum Idrettslag",
+        "felt": [
+          "registrert_adresse",
+          "nedslagsfelt"
+        ],
+        "kilde": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=1727",
+        "merknad": "NFFs klubbprofil viser besøksadresse og aktivitet; stiftet 01.01.0001 betyr ukjent og er ikke brukt."
+      },
+      {
+        "navn": "Vikersund Idrettsforening",
+        "felt": [
+          "idretter",
+          "draktfarger",
+          "registrert_adresse"
+        ],
+        "kilde": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=451",
+        "merknad": "NFF bekrefter fotball og rød fotballdrakt; besøksadresse."
+      },
+      {
+        "navn": "Åmot Idrettsforening",
+        "felt": [
+          "idretter",
+          "draktfarger"
+        ],
+        "kilde": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=452",
+        "merknad": "NFF bekrefter fotball og blå fotballdrakt."
+      },
+      {
+        "navn": "Krødsherad Idrettslag",
+        "felt": [
+          "draktfarger"
+        ],
+        "kilde": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=445",
+        "merknad": "NFF bekrefter hvit fotballdrakt. 01.01.0001 i NFF er teknisk plassholder, ikke stiftelsesdato."
+      },
+      {
+        "navn": "Vestfossen Idrettsforening",
+        "felt": [
+          "draktfarger"
+        ],
+        "kilde": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=455",
+        "merknad": "NFF bekrefter hvit fotballdrakt og stiftelsesdato; alle klubbfarger ikke dokumentert."
+      },
+      {
+        "navn": "Steinberg Idrettsforening",
+        "felt": [
+          "idretter",
+          "draktfarger",
+          "registrert_adresse"
+        ],
+        "kilde": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=460",
+        "merknad": "NFF bekrefter rød fotballdrakt; NFFs 01.01.0001 er ikke gyldig stiftelsesdato."
+      },
+      {
+        "navn": "Simostranda IL",
+        "felt": [
+          "idretter",
+          "hjemmebane",
+          "nedslagsfelt"
+        ],
+        "kilde": "https://www.simostranda.no/",
+        "merknad": "Klubbens egen nettside viser aktivitet i skiskyting og langrenn. Skiskytterstadion er også nevnt av Norges Skiskytterforbund."
+      },
+      {
+        "navn": "Norefjell Golfklubb",
+        "felt": [
+          "stiftelsesdato",
+          "hjemmebane",
+          "nedslagsfelt",
+          "nettsted"
+        ],
+        "kilde": "https://www.norefjell-golf.no/klubben/",
+        "merknad": "Klubbens egen historikk bekrefter 7. september 1993, 18-hullsbane og Noresund. Barnetrening er markedsført for tre kommuner, men dette står som separat rekrutteringsområde."
+      },
+      {
+        "navn": "IF Eiker Kvikk",
+        "felt": [
+          "idretter"
+        ],
+        "kilde": "https://skiskyting.no/krets/buskerud/om-kretsen/klubber-i-krets/",
+        "merknad": "Norges Skiskytterforbund har klubben i Buskerud krets."
+      },
+      {
+        "navn": "IL Moingen",
+        "felt": [
+          "ny klubb",
+          "idretter",
+          "draktfarger",
+          "hjemmebane"
+        ],
+        "kilde": "https://www.fotball.no/fotballdata/klubb/hjem/?fiksId=449",
+        "merknad": "Verifisert i fotballforbundets klubbregister; organisasjonsnummer og nøyaktig stiftelsesdato ikke kontrollert."
+      }
+    ],
+    "antall_eksisterende_beriket": 12,
+    "nye_klubber": 1,
+    "merknader": [
+      "NFFs oppføringer med stiftelsesdato 01.01.0001 blir ikke tolket som faktisk stiftelse.",
+      "NFF oppgir fotballdrakt, ikke nødvendigvis klubbens offisielle farger.",
+      "NFFs besøksadresser er ikke bekreftet juridisk registreringsadresse.",
+      "Mange av de opprinnelige 93 oppføringene gjenstår å kontrollere.",
+      "NFF-besøksadresser føres nå i besøksadresse, ikke registrert_adresse."
+    ]
+  },
+  "statistikk_feltdekning_runde_5": {
+    "organisasjonsnummer": 69,
+    "stiftelsesdato": 24,
+    "idretter": 29,
+    "hjemmebane": 11,
+    "nedslagsfelt": 11,
+    "nettsted": 21,
+    "draktfarger": 12
+  }
+}
